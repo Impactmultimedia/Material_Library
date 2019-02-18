@@ -2885,3 +2885,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.18-22.13.44:699][413]LogSlate: FSceneViewport::OnFocusLost() reason 0
 [2019.02.18-22.13.50:590][ 10]LogAssetEditorManager: Opening Asset editor for MaterialInstanceConstant /Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst.01_Metal_Treated_shteahic_4K_inst
 [2019.02.18-22.14.21:009][744]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.18-22.22.14:435][343]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Material' took 0.039
+[2019.02.18-22.22.14:438][343]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst] ([1] browsable assets)...
+[2019.02.18-22.22.14:750][343]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst.01_Metal_Treated_shteahic_4K_inst]
+[2019.02.18-22.22.14:750][343]OBJ SavePackage: Finished generating thumbnails for package [/Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst]
+[2019.02.18-22.22.14:791][343]LogMaterial: Display: Missing cached shader map for material FDebugViewModeMaterialProxy 01_Metal_Treated_shteahic_4K_inst, compiling. 
+[2019.02.18-22.22.15:142][343]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.18-22.22.15:143][343]TextureStreamingBuild: Display: Compiling optional shaders took 0.358 seconds.
+[2019.02.18-22.22.15:237][343]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/01_Metal_Treated_shteahic_4K_insCA5707A34ADECB3A2705F3B231373057.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst_Auto3.uasset'
+[2019.02.18-22.22.15:251][343]LogFileHelpers: Auto-saving content packages took 0.815
