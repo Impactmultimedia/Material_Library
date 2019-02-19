@@ -2894,3 +2894,863 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2019.02.18-22.22.15:143][343]TextureStreamingBuild: Display: Compiling optional shaders took 0.358 seconds.
 [2019.02.18-22.22.15:237][343]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/01_Metal_Treated_shteahic_4K_insCA5707A34ADECB3A2705F3B231373057.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Megascans/Surface/01_Metal_Treated_shteahic/01_Metal_Treated_shteahic_4K_inst_Auto3.uasset'
 [2019.02.18-22.22.15:251][343]LogFileHelpers: Auto-saving content packages took 0.815
+[2019.02.18-22.35.27:367][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.35.27:706][699]LogAssetEditorManager: Opening Asset editor for Texture2D /Game/Megascans/Surface/01_Metal_Treated_shteahic/shteahic_4K_Albedo.shteahic_4K_Albedo
+[2019.02.18-22.35.27:788][699]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0022 seconds. Added 1 classes and 2 folders.
+[2019.02.18-22.35.30:578][991]LogSlate: Window 'shteahic_4K_Albedo*' being destroyed
+[2019.02.18-22.35.30:584][991]LogSlate: Window 'shteahic_4K_Albedo*' being destroyed
+[2019.02.18-22.35.45:004][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.36.14:417][ 68]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/01_Metal_Treated_shteahic_4K_ins5ED7612C4CAB6513958CD69E349D57D3.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Content/Materials/1000_Walls/M_1002_Alucobond_Panelled_02/01_Metal_Treated_shteahic_4K_inst.uasset'
+[2019.02.18-22.36.15:494][ 68]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/shteahic_4K_AlbedoE0BDF4A64BC392DC49CD119854B3DDC3.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Content/Materials/1000_Walls/M_1002_Alucobond_Panelled_02/shteahic_4K_Albedo.uasset'
+[2019.02.18-22.36.15:864][ 68]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/shteahic_4K_Normal6EE7504D4E551AA1F094F5920EB6DFA7.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Content/Materials/1000_Walls/M_1002_Alucobond_Panelled_02/shteahic_4K_Normal.uasset'
+[2019.02.18-22.36.17:161][ 68]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/shteahic_4K_Roughness7DE9A3B449D9BAB3C5E1E6A6282238D4.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Content/Materials/1000_Walls/M_1002_Alucobond_Panelled_02/shteahic_4K_Roughness.uasset'
+[2019.02.18-22.36.48:502][866]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Material_Auto45B9423F64377D140649A7F86C9A424E6.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Level/Material_Auto4.umap'
+[2019.02.18-22.36.48:518][866]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Material' took 0.644
+[2019.02.18-22.36.48:518][866]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.644
+[2019.02.18-22.37.26:675][436]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/M_1002_Alucobond_Panelled_0219CA86AC49B3808CDD350C90966436E4.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Content/Materials/1000_Walls/M_1002_Alucobond_Panelled_02/M_1002_Alucobond_Panelled_02.uasset'
+[2019.02.18-22.37.39:861][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.44.28:866][771]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2019.02.18-22.44.45:994][539]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube2)
+[2019.02.18-22.44.47:009][649]Cmd: DELETE
+[2019.02.18-22.44.47:009][649]Cmd: ACTOR DELETE
+[2019.02.18-22.44.47:017][649]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.18-22.44.47:045][649]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2019.02.18-22.44.47:405][689]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor2)
+[2019.02.18-22.44.47:858][733]Cmd: DELETE
+[2019.02.18-22.44.47:859][733]Cmd: ACTOR DELETE
+[2019.02.18-22.44.47:862][733]LogEditorActor: Deleted Actor: StaticMeshActor
+[2019.02.18-22.44.47:901][733]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2019.02.18-22.44.49:503][914]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2019.02.18-22.44.53:044][278]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.44.57:740][786]Cmd: TRANSACTION UNDO
+[2019.02.18-22.44.57:740][786]LogEditorTransaction: Undo Move Actors
+[2019.02.18-22.44.57:754][786]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.02.18-22.44.59:535][786]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.782 s
+[2019.02.18-22.44.59:535][786]LogOutputDevice: Error: === Handled ensure: ===
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: 
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: Ensure condition failed: PinHelpers::UnresolvedPins.Num() == 0 [File:D:\Build\++UE4\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 2105]
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: 
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: Stack: 
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb012185e8 UE4Editor-Engine.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe76fe32 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe79acf6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe78140c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe7eb427 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe82f72f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe7c726f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe780b4c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafe77a786 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffaff080b33 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffaed2d773e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffaed2d7b5e UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafff6206f UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafffa4c8e UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffaed2e7562 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffaed2d75e9 UE4Editor-MainFrame.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafffa69f9 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffafff99a36 UE4Editor-Slate.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb0045daa4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb00450de0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb004601eb UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb0044ca19 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffbb0696d41 USER32.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffbb0696713 USER32.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffb00461746 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ff6fd0e5546 UE4Editor.exe!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ff6fd0f596c UE4Editor.exe!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ff6fd0f59ea UE4Editor.exe!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ff6fd1048da UE4Editor.exe!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ff6fd10659a UE4Editor.exe!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffbb17d3dc4 KERNEL32.DLL!UnknownFunction []
+[2019.02.18-22.44.59:536][786]LogOutputDevice: Error: [Callstack] 0x00007ffbb1e03691 ntdll.dll!UnknownFunction []
+[2019.02.18-22.44.59:537][786]LogOutputDevice: Error: 
+[2019.02.18-22.44.59:540][786]LogStats:                SubmitErrorReport -  0.000 s
+[2019.02.18-22.45.04:507][786]LogStats:                    SendNewReport -  4.968 s
+[2019.02.18-22.45.04:508][786]LogStats:             FDebug::EnsureFailed -  6.754 s
+[2019.02.18-22.45.04:516][786]Cmd: TRANSACTION UNDO
+[2019.02.18-22.45.04:516][786]LogEditorTransaction: Undo Clicking on Actors
+[2019.02.18-22.45.04:548][786]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.18-22.45.08:517][205]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.45.19:790][205]LogEditorViewport: Clicking on Actor (CTRL LMB): TextRenderActor (TextRenderActor2)
+[2019.02.18-22.45.57:248][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.47.07:716][935]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Material_Auto529A19AEC47929B34BD256A937D0D94CA.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Level/Material_Auto5.umap'
+[2019.02.18-22.47.07:735][935]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Material' took 1.970
+[2019.02.18-22.47.07:735][935]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.970
+[2019.02.18-22.48.56:709][262]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-22.49.06:718][411]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor3)
+[2019.02.18-22.49.09:303][687]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.49.35:220][823]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.18-22.49.36:218][905]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.18-22.49.37:187][992]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.18-22.49.38:792][141]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor4)
+[2019.02.18-22.50.06:740][321]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-22.50.14:399][ 90]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor5)
+[2019.02.18-22.50.42:497][473]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-22.50.44:092][588]LogTexture: Display: Building textures: Texture2D_286 (BGRA8, 415X415)
+[2019.02.18-22.50.44:156][589]LogTexture: Display: Building textures: Texture2D_287 (BGRA8, 415X415)
+[2019.02.18-22.50.44:188][589]LogTexture: Display: Building textures: Texture2D_288 (BGRA8, 415X415)
+[2019.02.18-22.50.44:217][589]LogTexture: Display: Building textures: Texture2D_289 (BGRA8, 415X415)
+[2019.02.18-22.50.44:248][589]LogTexture: Display: Building textures: Texture2D_290 (BGRA8, 415X415)
+[2019.02.18-22.50.44:276][589]LogTexture: Display: Building textures: Texture2D_291 (BGRA8, 415X415)
+[2019.02.18-22.50.44:303][589]LogTexture: Display: Building textures: Texture2D_292 (BGRA8, 415X415)
+[2019.02.18-22.50.44:330][589]LogTexture: Display: Building textures: Texture2D_293 (BGRA8, 415X415)
+[2019.02.18-22.50.44:357][589]LogTexture: Display: Building textures: Texture2D_294 (BGRA8, 415X415)
+[2019.02.18-22.50.44:383][589]LogTexture: Display: Building textures: Texture2D_295 (BGRA8, 415X415)
+[2019.02.18-22.50.44:410][589]LogTexture: Display: Building textures: Texture2D_296 (BGRA8, 415X415)
+[2019.02.18-22.50.44:436][589]LogTexture: Display: Building textures: Texture2D_297 (BGRA8, 415X415)
+[2019.02.18-22.50.54:957][304]LogTexture: Display: Building textures: Texture2D_298 (BGRA8, 415X415)
+[2019.02.18-22.50.54:986][304]LogTexture: Display: Building textures: Texture2D_299 (BGRA8, 415X415)
+[2019.02.18-22.50.55:031][306]LogTexture: Display: Building textures: Texture2D_300 (BGRA8, 415X415)
+[2019.02.18-22.50.55:068][307]LogTexture: Display: Building textures: Texture2D_301 (BGRA8, 415X415)
+[2019.02.18-22.50.55:778][344]LogTexture: Display: Building textures: Texture2D_302 (BGRA8, 415X415)
+[2019.02.18-22.50.55:803][344]LogTexture: Display: Building textures: Texture2D_303 (BGRA8, 415X415)
+[2019.02.18-22.50.55:827][344]LogTexture: Display: Building textures: Texture2D_304 (BGRA8, 415X415)
+[2019.02.18-22.50.55:850][344]LogTexture: Display: Building textures: Texture2D_305 (BGRA8, 415X415)
+[2019.02.18-22.50.55:876][344]LogTexture: Display: Building textures: Texture2D_306 (BGRA8, 415X415)
+[2019.02.18-22.50.55:904][344]LogTexture: Display: Building textures: Texture2D_307 (BGRA8, 415X415)
+[2019.02.18-22.50.56:115][345]LogTexture: Display: Building textures: Texture2D_308 (BGRA8, 415X415)
+[2019.02.18-22.50.56:445][346]LogTexture: Display: Building textures: Texture2D_309 (BGRA8, 415X415)
+[2019.02.18-22.50.56:477][346]LogTexture: Display: Building textures: Texture2D_310 (BGRA8, 415X415)
+[2019.02.18-22.50.56:522][346]LogTexture: Display: Building textures: Texture2D_311 (BGRA8, 415X415)
+[2019.02.18-22.50.56:559][346]LogTexture: Display: Building textures: Texture2D_312 (BGRA8, 415X415)
+[2019.02.18-22.50.56:590][346]LogTexture: Display: Building textures: Texture2D_313 (BGRA8, 415X415)
+[2019.02.18-22.50.56:620][346]LogTexture: Display: Building textures: Texture2D_314 (BGRA8, 415X415)
+[2019.02.18-22.50.56:780][347]LogTexture: Display: Building textures: Texture2D_315 (BGRA8, 415X415)
+[2019.02.18-22.50.56:808][347]LogTexture: Display: Building textures: Texture2D_316 (BGRA8, 415X415)
+[2019.02.18-22.50.56:835][347]LogTexture: Display: Building textures: Texture2D_317 (BGRA8, 415X415)
+[2019.02.18-22.50.56:859][347]LogTexture: Display: Building textures: Texture2D_318 (BGRA8, 415X415)
+[2019.02.18-22.50.56:886][347]LogTexture: Display: Building textures: Texture2D_319 (BGRA8, 415X415)
+[2019.02.18-22.50.57:459][349]LogTexture: Display: Building textures: Texture2D_320 (BGRA8, 415X415)
+[2019.02.18-22.50.58:126][351]LogTexture: Display: Building textures: Texture2D_321 (BGRA8, 415X415)
+[2019.02.18-22.51.56:405][963]LogTexture: Display: Building textures: Texture2D_322 (BGRA8, 1920X1080)
+[2019.02.18-22.52.00:368][321]LogSubstanceSource: Error: Not all details images have been loaded when attempting to switch image in the detail panel 
+[2019.02.18-22.52.05:368][800]LogSubstanceSource: Error: Not all details images have been loaded when attempting to switch image in the detail panel 
+[2019.02.18-22.52.10:374][260]LogSubstanceSource: Error: Not all details images have been loaded when attempting to switch image in the detail panel 
+[2019.02.18-22.52.15:383][718]LogSubstanceSource: Error: Not all details images have been loaded when attempting to switch image in the detail panel 
+[2019.02.18-22.52.15:855][750]LogTexture: Display: Building textures: Texture2D_323 (BGRA8, 1920X1080)
+[2019.02.18-22.52.37:901][749]LogTexture: Display: Building textures: Texture2D_324 (BGRA8, 415X415)
+[2019.02.18-22.52.38:054][759]LogTexture: Display: Building textures: Texture2D_325 (BGRA8, 415X415)
+[2019.02.18-22.52.38:123][762]LogTexture: Display: Building textures: Texture2D_326 (BGRA8, 415X415)
+[2019.02.18-22.52.38:169][763]LogTexture: Display: Building textures: Texture2D_327 (BGRA8, 415X415)
+[2019.02.18-22.52.38:215][764]LogTexture: Display: Building textures: Texture2D_328 (BGRA8, 415X415)
+[2019.02.18-22.52.38:282][766]LogTexture: Display: Building textures: Texture2D_329 (BGRA8, 415X415)
+[2019.02.18-22.52.38:388][772]LogTexture: Display: Building textures: Texture2D_330 (BGRA8, 415X415)
+[2019.02.18-22.52.38:790][804]LogTexture: Display: Building textures: Texture2D_331 (BGRA8, 415X415)
+[2019.02.18-22.52.46:134][449]LogTexture: Display: Building textures: Texture2D_332 (BGRA8, 1920X1080)
+[2019.02.18-22.52.49:167][720]LogSubstanceSource: Error: Not all details images have been loaded when attempting to switch image in the detail panel 
+[2019.02.18-22.52.49:352][726]LogTexture: Display: Building textures: Texture2D_333 (BGRA8, 1920X1080)
+[2019.02.18-22.54.59:313][870]LogTexture: Display: Building textures: Texture2D_334 (BGRA8, 415X415)
+[2019.02.18-22.55.24:196][110]LogTexture: Display: Building textures: Texture2D_335 (BGRA8, 1920X1080)
+[2019.02.18-22.55.24:401][110]LogTexture: Display: Building textures: Texture2D_336 (BGRA8, 1920X1080)
+[2019.02.18-22.55.31:755][655]LogSlate: Window 'Plugin Substance Source' being destroyed
+[2019.02.18-22.55.46:476][948]LogSlate: Window 'Login Error' being destroyed
+[2019.02.18-22.55.48:099][100]LogSubstanceSource: Error: UserLogin called while prior request still in flight. Ignoring subsequent request
+[2019.02.18-22.55.52:211][198]LogSubstanceSource: User Logged In Successfully
+[2019.02.18-22.55.52:574][198]LogTexture: Display: Building textures: Texture2D_337 (BGRA8, 415X415)
+[2019.02.18-22.55.52:635][198]LogTexture: Display: Building textures: Texture2D_338 (BGRA8, 415X415)
+[2019.02.18-22.55.54:239][204]LogTexture: Display: Building textures: Texture2D_339 (BGRA8, 415X415)
+[2019.02.18-22.55.55:221][207]LogTexture: Display: Building textures: Texture2D_340 (BGRA8, 415X415)
+[2019.02.18-22.55.58:936][218]LogTexture: Display: Building textures: Texture2D_341 (BGRA8, 415X415)
+[2019.02.18-22.55.58:960][218]LogTexture: Display: Building textures: Texture2D_342 (BGRA8, 415X415)
+[2019.02.18-22.55.58:986][218]LogTexture: Display: Building textures: Texture2D_343 (BGRA8, 415X415)
+[2019.02.18-22.55.59:266][219]LogTexture: Display: Building textures: Texture2D_344 (BGRA8, 415X415)
+[2019.02.18-22.55.59:289][219]LogTexture: Display: Building textures: Texture2D_345 (BGRA8, 415X415)
+[2019.02.18-22.55.59:316][219]LogTexture: Display: Building textures: Texture2D_346 (BGRA8, 415X415)
+[2019.02.18-22.55.59:344][219]LogTexture: Display: Building textures: Texture2D_347 (BGRA8, 415X415)
+[2019.02.18-22.55.59:606][220]LogTexture: Display: Building textures: Texture2D_348 (BGRA8, 415X415)
+[2019.02.18-22.56.05:596][780]LogTexture: Display: Building textures: Texture2D_349 (BGRA8, 415X415)
+[2019.02.18-22.56.05:619][780]LogTexture: Display: Building textures: Texture2D_350 (BGRA8, 415X415)
+[2019.02.18-22.56.05:641][780]LogTexture: Display: Building textures: Texture2D_351 (BGRA8, 415X415)
+[2019.02.18-22.56.05:662][780]LogTexture: Display: Building textures: Texture2D_352 (BGRA8, 415X415)
+[2019.02.18-22.56.05:683][780]LogTexture: Display: Building textures: Texture2D_353 (BGRA8, 415X415)
+[2019.02.18-22.56.05:705][780]LogTexture: Display: Building textures: Texture2D_354 (BGRA8, 415X415)
+[2019.02.18-22.56.05:728][780]LogTexture: Display: Building textures: Texture2D_355 (BGRA8, 415X415)
+[2019.02.18-22.56.05:751][780]LogTexture: Display: Building textures: Texture2D_356 (BGRA8, 415X415)
+[2019.02.18-22.56.05:774][780]LogTexture: Display: Building textures: Texture2D_357 (BGRA8, 415X415)
+[2019.02.18-22.56.05:797][780]LogTexture: Display: Building textures: Texture2D_358 (BGRA8, 415X415)
+[2019.02.18-22.56.05:820][780]LogTexture: Display: Building textures: Texture2D_359 (BGRA8, 415X415)
+[2019.02.18-22.56.05:842][780]LogTexture: Display: Building textures: Texture2D_360 (BGRA8, 415X415)
+[2019.02.18-22.56.07:186][916]LogTexture: Display: Building textures: Texture2D_361 (BGRA8, 415X415)
+[2019.02.18-22.56.07:222][917]LogTexture: Display: Building textures: Texture2D_362 (BGRA8, 415X415)
+[2019.02.18-22.56.07:292][922]LogTexture: Display: Building textures: Texture2D_363 (BGRA8, 415X415)
+[2019.02.18-22.56.07:451][936]LogTexture: Display: Building textures: Texture2D_364 (BGRA8, 415X415)
+[2019.02.18-22.56.07:490][937]LogTexture: Display: Building textures: Texture2D_365 (BGRA8, 415X415)
+[2019.02.18-22.56.07:534][939]LogTexture: Display: Building textures: Texture2D_366 (BGRA8, 415X415)
+[2019.02.18-22.56.07:769][961]LogTexture: Display: Building textures: Texture2D_367 (BGRA8, 415X415)
+[2019.02.18-22.56.07:805][962]LogTexture: Display: Building textures: Texture2D_368 (BGRA8, 415X415)
+[2019.02.18-22.56.08:312][ 11]LogTexture: Display: Building textures: Texture2D_369 (BGRA8, 415X415)
+[2019.02.18-22.56.08:347][ 12]LogTexture: Display: Building textures: Texture2D_370 (BGRA8, 415X415)
+[2019.02.18-22.56.08:382][ 13]LogTexture: Display: Building textures: Texture2D_371 (BGRA8, 415X415)
+[2019.02.18-22.56.08:484][ 21]LogTexture: Display: Building textures: Texture2D_372 (BGRA8, 415X415)
+[2019.02.18-22.56.08:806][ 52]LogTexture: Display: Building textures: Texture2D_373 (BGRA8, 415X415)
+[2019.02.18-22.56.09:056][ 74]LogTexture: Display: Building textures: Texture2D_374 (BGRA8, 415X415)
+[2019.02.18-22.56.09:212][ 87]LogTexture: Display: Building textures: Texture2D_375 (BGRA8, 415X415)
+[2019.02.18-22.56.09:261][ 89]LogTexture: Display: Building textures: Texture2D_376 (BGRA8, 415X415)
+[2019.02.18-22.56.09:301][ 90]LogTexture: Display: Building textures: Texture2D_377 (BGRA8, 415X415)
+[2019.02.18-22.56.09:429][100]LogTexture: Display: Building textures: Texture2D_378 (BGRA8, 415X415)
+[2019.02.18-22.56.09:598][114]LogTexture: Display: Building textures: Texture2D_379 (BGRA8, 415X415)
+[2019.02.18-22.56.10:004][151]LogTexture: Display: Building textures: Texture2D_380 (BGRA8, 415X415)
+[2019.02.18-22.56.10:132][161]LogTexture: Display: Building textures: Texture2D_381 (BGRA8, 415X415)
+[2019.02.18-22.56.10:324][177]LogTexture: Display: Building textures: Texture2D_382 (BGRA8, 415X415)
+[2019.02.18-22.56.10:399][182]LogTexture: Display: Building textures: Texture2D_383 (BGRA8, 415X415)
+[2019.02.18-22.56.10:463][186]LogTexture: Display: Building textures: Texture2D_384 (BGRA8, 415X415)
+[2019.02.18-22.56.10:486][186]LogTexture: Display: Building textures: Texture2D_385 (BGRA8, 415X415)
+[2019.02.18-22.56.10:651][197]LogTexture: Display: Building textures: Texture2D_386 (BGRA8, 415X415)
+[2019.02.18-22.56.10:675][197]LogTexture: Display: Building textures: Texture2D_387 (BGRA8, 415X415)
+[2019.02.18-22.56.10:717][198]LogTexture: Display: Building textures: Texture2D_388 (BGRA8, 415X415)
+[2019.02.18-22.56.10:824][205]LogTexture: Display: Building textures: Texture2D_389 (BGRA8, 415X415)
+[2019.02.18-22.56.11:166][231]LogTexture: Display: Building textures: Texture2D_390 (BGRA8, 415X415)
+[2019.02.18-22.56.11:359][247]LogTexture: Display: Building textures: Texture2D_391 (BGRA8, 415X415)
+[2019.02.18-22.56.11:432][252]LogTexture: Display: Building textures: Texture2D_392 (BGRA8, 415X415)
+[2019.02.18-22.56.11:574][263]LogTexture: Display: Building textures: Texture2D_393 (BGRA8, 415X415)
+[2019.02.18-22.56.11:675][271]LogTexture: Display: Building textures: Texture2D_394 (BGRA8, 415X415)
+[2019.02.18-22.56.11:700][271]LogTexture: Display: Building textures: Texture2D_395 (BGRA8, 415X415)
+[2019.02.18-22.56.11:737][272]LogTexture: Display: Building textures: Texture2D_396 (BGRA8, 415X415)
+[2019.02.18-22.56.11:759][272]LogTexture: Display: Building textures: Texture2D_397 (BGRA8, 415X415)
+[2019.02.18-22.56.11:797][273]LogTexture: Display: Building textures: Texture2D_398 (BGRA8, 415X415)
+[2019.02.18-22.56.11:822][273]LogTexture: Display: Building textures: Texture2D_399 (BGRA8, 415X415)
+[2019.02.18-22.56.11:925][281]LogTexture: Display: Building textures: Texture2D_400 (BGRA8, 415X415)
+[2019.02.18-22.56.12:354][322]LogTexture: Display: Building textures: Texture2D_401 (BGRA8, 415X415)
+[2019.02.18-22.56.12:518][336]LogTexture: Display: Building textures: Texture2D_402 (BGRA8, 415X415)
+[2019.02.18-22.56.12:747][355]LogTexture: Display: Building textures: Texture2D_403 (BGRA8, 415X415)
+[2019.02.18-22.56.12:920][368]LogTexture: Display: Building textures: Texture2D_404 (BGRA8, 415X415)
+[2019.02.18-22.56.12:944][368]LogTexture: Display: Building textures: Texture2D_405 (BGRA8, 415X415)
+[2019.02.18-22.56.12:983][369]LogTexture: Display: Building textures: Texture2D_406 (BGRA8, 415X415)
+[2019.02.18-22.56.13:047][373]LogTexture: Display: Building textures: Texture2D_407 (BGRA8, 415X415)
+[2019.02.18-22.56.13:159][382]LogTexture: Display: Building textures: Texture2D_408 (BGRA8, 415X415)
+[2019.02.18-22.56.13:196][383]LogTexture: Display: Building textures: Texture2D_409 (BGRA8, 415X415)
+[2019.02.18-22.56.13:365][397]LogTexture: Display: Building textures: Texture2D_410 (BGRA8, 415X415)
+[2019.02.18-22.56.13:463][404]LogTexture: Display: Building textures: Texture2D_411 (BGRA8, 415X415)
+[2019.02.18-22.56.13:489][404]LogTexture: Display: Building textures: Texture2D_412 (BGRA8, 415X415)
+[2019.02.18-22.56.13:527][405]LogTexture: Display: Building textures: Texture2D_413 (BGRA8, 415X415)
+[2019.02.18-22.56.13:698][420]LogTexture: Display: Building textures: Texture2D_414 (BGRA8, 415X415)
+[2019.02.18-22.56.13:750][423]LogTexture: Display: Building textures: Texture2D_415 (BGRA8, 415X415)
+[2019.02.18-22.56.13:925][439]LogTexture: Display: Building textures: Texture2D_416 (BGRA8, 415X415)
+[2019.02.18-22.56.14:016][446]LogTexture: Display: Building textures: Texture2D_417 (BGRA8, 415X415)
+[2019.02.18-22.56.14:092][452]LogTexture: Display: Building textures: Texture2D_418 (BGRA8, 415X415)
+[2019.02.18-22.56.14:174][454]LogTexture: Display: Building textures: Texture2D_419 (BGRA8, 415X415)
+[2019.02.18-22.56.14:231][458]LogTexture: Display: Building textures: Texture2D_420 (BGRA8, 415X415)
+[2019.02.18-22.56.14:560][493]LogTexture: Display: Building textures: Texture2D_421 (BGRA8, 415X415)
+[2019.02.18-22.56.14:717][508]LogTexture: Display: Building textures: Texture2D_422 (BGRA8, 415X415)
+[2019.02.18-22.56.14:780][512]LogTexture: Display: Building textures: Texture2D_423 (BGRA8, 415X415)
+[2019.02.18-22.56.14:955][529]LogTexture: Display: Building textures: Texture2D_424 (BGRA8, 415X415)
+[2019.02.18-22.56.14:989][530]LogTexture: Display: Building textures: Texture2D_425 (BGRA8, 415X415)
+[2019.02.18-22.56.15:057][534]LogTexture: Display: Building textures: Texture2D_426 (BGRA8, 415X415)
+[2019.02.18-22.56.15:090][535]LogTexture: Display: Building textures: Texture2D_427 (BGRA8, 415X415)
+[2019.02.18-22.56.15:113][535]LogTexture: Display: Building textures: Texture2D_428 (BGRA8, 415X415)
+[2019.02.18-22.56.15:155][537]LogTexture: Display: Building textures: Texture2D_429 (BGRA8, 415X415)
+[2019.02.18-22.56.15:186][538]LogTexture: Display: Building textures: Texture2D_430 (BGRA8, 415X415)
+[2019.02.18-22.56.15:219][539]LogTexture: Display: Building textures: Texture2D_431 (BGRA8, 415X415)
+[2019.02.18-22.56.15:482][561]LogTexture: Display: Building textures: Texture2D_432 (BGRA8, 415X415)
+[2019.02.18-22.56.15:644][577]LogTexture: Display: Building textures: Texture2D_433 (BGRA8, 415X415)
+[2019.02.18-22.56.15:675][578]LogTexture: Display: Building textures: Texture2D_434 (BGRA8, 415X415)
+[2019.02.18-22.56.15:795][578]LogTexture: Display: Building textures: Texture2D_435 (BGRA8, 415X415)
+[2019.02.18-22.56.15:817][578]LogTexture: Display: Building textures: Texture2D_436 (BGRA8, 415X415)
+[2019.02.18-22.56.15:840][578]LogTexture: Display: Building textures: Texture2D_437 (BGRA8, 415X415)
+[2019.02.18-22.56.15:861][578]LogTexture: Display: Building textures: Texture2D_438 (BGRA8, 415X415)
+[2019.02.18-22.56.15:883][578]LogTexture: Display: Building textures: Texture2D_439 (BGRA8, 415X415)
+[2019.02.18-22.56.15:903][578]LogTexture: Display: Building textures: Texture2D_440 (BGRA8, 415X415)
+[2019.02.18-22.56.15:924][578]LogTexture: Display: Building textures: Texture2D_441 (BGRA8, 415X415)
+[2019.02.18-22.56.15:948][578]LogTexture: Display: Building textures: Texture2D_442 (BGRA8, 415X415)
+[2019.02.18-22.56.15:971][578]LogTexture: Display: Building textures: Texture2D_443 (BGRA8, 415X415)
+[2019.02.18-22.56.15:993][578]LogTexture: Display: Building textures: Texture2D_444 (BGRA8, 415X415)
+[2019.02.18-22.56.16:015][578]LogTexture: Display: Building textures: Texture2D_445 (BGRA8, 415X415)
+[2019.02.18-22.56.16:037][578]LogTexture: Display: Building textures: Texture2D_446 (BGRA8, 415X415)
+[2019.02.18-22.56.16:062][579]LogTexture: Display: Building textures: Texture2D_447 (BGRA8, 415X415)
+[2019.02.18-22.56.16:084][579]LogTexture: Display: Building textures: Texture2D_448 (BGRA8, 415X415)
+[2019.02.18-22.56.16:142][581]LogTexture: Display: Building textures: Texture2D_449 (BGRA8, 415X415)
+[2019.02.18-22.56.16:180][582]LogTexture: Display: Building textures: Texture2D_450 (BGRA8, 415X415)
+[2019.02.18-22.56.16:249][583]LogTexture: Display: Building textures: Texture2D_451 (BGRA8, 415X415)
+[2019.02.18-22.56.16:282][584]LogTexture: Display: Building textures: Texture2D_452 (BGRA8, 415X415)
+[2019.02.18-22.56.16:430][597]LogTexture: Display: Building textures: Texture2D_453 (BGRA8, 415X415)
+[2019.02.18-22.56.16:513][603]LogTexture: Display: Building textures: Texture2D_454 (BGRA8, 415X415)
+[2019.02.18-22.56.16:597][609]LogTexture: Display: Building textures: Texture2D_455 (BGRA8, 415X415)
+[2019.02.18-22.56.16:662][613]LogTexture: Display: Building textures: Texture2D_456 (BGRA8, 415X415)
+[2019.02.18-22.56.16:747][619]LogTexture: Display: Building textures: Texture2D_457 (BGRA8, 415X415)
+[2019.02.18-22.56.16:810][623]LogTexture: Display: Building textures: Texture2D_458 (BGRA8, 415X415)
+[2019.02.18-22.56.17:054][646]LogTexture: Display: Building textures: Texture2D_459 (BGRA8, 415X415)
+[2019.02.18-22.56.17:186][657]LogTexture: Display: Building textures: Texture2D_460 (BGRA8, 415X415)
+[2019.02.18-22.56.17:232][659]LogTexture: Display: Building textures: Texture2D_461 (BGRA8, 415X415)
+[2019.02.18-22.56.17:255][659]LogTexture: Display: Building textures: Texture2D_462 (BGRA8, 415X415)
+[2019.02.18-22.56.17:320][663]LogTexture: Display: Building textures: Texture2D_463 (BGRA8, 415X415)
+[2019.02.18-22.56.17:508][680]LogTexture: Display: Building textures: Texture2D_464 (BGRA8, 415X415)
+[2019.02.18-22.56.17:545][681]LogTexture: Display: Building textures: Texture2D_465 (BGRA8, 415X415)
+[2019.02.18-22.56.17:781][703]LogTexture: Display: Building textures: Texture2D_466 (BGRA8, 415X415)
+[2019.02.18-22.56.17:817][704]LogTexture: Display: Building textures: Texture2D_467 (BGRA8, 415X415)
+[2019.02.18-22.56.17:842][704]LogTexture: Display: Building textures: Texture2D_468 (BGRA8, 415X415)
+[2019.02.18-22.56.17:989][717]LogTexture: Display: Building textures: Texture2D_469 (BGRA8, 415X415)
+[2019.02.18-22.56.18:259][742]LogTexture: Display: Building textures: Texture2D_470 (BGRA8, 415X415)
+[2019.02.18-22.56.18:298][743]LogTexture: Display: Building textures: Texture2D_471 (BGRA8, 415X415)
+[2019.02.18-22.56.18:332][744]LogTexture: Display: Building textures: Texture2D_472 (BGRA8, 415X415)
+[2019.02.18-22.56.18:384][747]LogTexture: Display: Building textures: Texture2D_473 (BGRA8, 415X415)
+[2019.02.18-22.56.18:429][749]LogTexture: Display: Building textures: Texture2D_474 (BGRA8, 415X415)
+[2019.02.18-22.56.18:849][791]LogTexture: Display: Building textures: Texture2D_475 (BGRA8, 415X415)
+[2019.02.18-22.56.18:900][793]LogTexture: Display: Building textures: Texture2D_476 (BGRA8, 415X415)
+[2019.02.18-22.56.18:945][794]LogTexture: Display: Building textures: Texture2D_477 (BGRA8, 415X415)
+[2019.02.18-22.56.18:967][794]LogTexture: Display: Building textures: Texture2D_478 (BGRA8, 415X415)
+[2019.02.18-22.56.19:000][795]LogTexture: Display: Building textures: Texture2D_479 (BGRA8, 415X415)
+[2019.02.18-22.56.19:023][795]LogTexture: Display: Building textures: Texture2D_480 (BGRA8, 415X415)
+[2019.02.18-22.56.19:056][796]LogTexture: Display: Building textures: Texture2D_481 (BGRA8, 415X415)
+[2019.02.18-22.56.19:078][796]LogTexture: Display: Building textures: Texture2D_482 (BGRA8, 415X415)
+[2019.02.18-22.56.19:260][812]LogTexture: Display: Building textures: Texture2D_483 (BGRA8, 415X415)
+[2019.02.18-22.56.19:328][816]LogTexture: Display: Building textures: Texture2D_484 (BGRA8, 415X415)
+[2019.02.18-22.56.19:379][819]LogTexture: Display: Building textures: Texture2D_485 (BGRA8, 415X415)
+[2019.02.18-22.56.19:482][827]LogTexture: Display: Building textures: Texture2D_486 (BGRA8, 415X415)
+[2019.02.18-22.56.19:592][836]LogTexture: Display: Building textures: Texture2D_487 (BGRA8, 415X415)
+[2019.02.18-22.56.19:674][842]LogTexture: Display: Building textures: Texture2D_488 (BGRA8, 415X415)
+[2019.02.18-22.56.19:909][864]LogTexture: Display: Building textures: Texture2D_489 (BGRA8, 415X415)
+[2019.02.18-22.56.19:952][866]LogTexture: Display: Building textures: Texture2D_490 (BGRA8, 415X415)
+[2019.02.18-22.56.20:027][871]LogTexture: Display: Building textures: Texture2D_491 (BGRA8, 415X415)
+[2019.02.18-22.56.20:060][872]LogTexture: Display: Building textures: Texture2D_492 (BGRA8, 415X415)
+[2019.02.18-22.56.20:103][874]LogTexture: Display: Building textures: Texture2D_493 (BGRA8, 415X415)
+[2019.02.18-22.56.20:146][876]LogTexture: Display: Building textures: Texture2D_494 (BGRA8, 415X415)
+[2019.02.18-22.56.20:180][876]LogTexture: Display: Building textures: Texture2D_495 (BGRA8, 415X415)
+[2019.02.18-22.56.20:203][876]LogTexture: Display: Building textures: Texture2D_496 (BGRA8, 415X415)
+[2019.02.18-22.56.20:228][876]LogTexture: Display: Building textures: Texture2D_497 (BGRA8, 415X415)
+[2019.02.18-22.56.20:252][876]LogTexture: Display: Building textures: Texture2D_498 (BGRA8, 415X415)
+[2019.02.18-22.56.20:285][877]LogTexture: Display: Building textures: Texture2D_499 (BGRA8, 415X415)
+[2019.02.18-22.56.20:307][877]LogTexture: Display: Building textures: Texture2D_500 (BGRA8, 415X415)
+[2019.02.18-22.56.20:329][877]LogTexture: Display: Building textures: Texture2D_501 (BGRA8, 415X415)
+[2019.02.18-22.56.20:351][877]LogTexture: Display: Building textures: Texture2D_502 (BGRA8, 415X415)
+[2019.02.18-22.56.20:374][877]LogTexture: Display: Building textures: Texture2D_503 (BGRA8, 415X415)
+[2019.02.18-22.56.20:396][877]LogTexture: Display: Building textures: Texture2D_504 (BGRA8, 415X415)
+[2019.02.18-22.56.20:418][877]LogTexture: Display: Building textures: Texture2D_505 (BGRA8, 415X415)
+[2019.02.18-22.56.20:439][877]LogTexture: Display: Building textures: Texture2D_506 (BGRA8, 415X415)
+[2019.02.18-22.56.20:462][877]LogTexture: Display: Building textures: Texture2D_507 (BGRA8, 415X415)
+[2019.02.18-22.56.20:483][877]LogTexture: Display: Building textures: Texture2D_508 (BGRA8, 415X415)
+[2019.02.18-22.56.20:506][877]LogTexture: Display: Building textures: Texture2D_509 (BGRA8, 415X415)
+[2019.02.18-22.56.20:529][877]LogTexture: Display: Building textures: Texture2D_510 (BGRA8, 415X415)
+[2019.02.18-22.56.20:552][878]LogTexture: Display: Building textures: Texture2D_511 (BGRA8, 415X415)
+[2019.02.18-22.56.20:574][878]LogTexture: Display: Building textures: Texture2D_512 (BGRA8, 415X415)
+[2019.02.18-22.56.20:596][878]LogTexture: Display: Building textures: Texture2D_513 (BGRA8, 415X415)
+[2019.02.18-22.56.20:618][878]LogTexture: Display: Building textures: Texture2D_514 (BGRA8, 415X415)
+[2019.02.18-22.56.20:649][878]LogTexture: Display: Building textures: Texture2D_515 (BGRA8, 415X415)
+[2019.02.18-22.56.20:673][878]LogTexture: Display: Building textures: Texture2D_516 (BGRA8, 415X415)
+[2019.02.18-22.56.20:696][878]LogTexture: Display: Building textures: Texture2D_517 (BGRA8, 415X415)
+[2019.02.18-22.56.20:720][878]LogTexture: Display: Building textures: Texture2D_518 (BGRA8, 415X415)
+[2019.02.18-22.56.20:743][878]LogTexture: Display: Building textures: Texture2D_519 (BGRA8, 415X415)
+[2019.02.18-22.56.20:766][878]LogTexture: Display: Building textures: Texture2D_520 (BGRA8, 415X415)
+[2019.02.18-22.56.20:790][878]LogTexture: Display: Building textures: Texture2D_521 (BGRA8, 415X415)
+[2019.02.18-22.56.20:814][878]LogTexture: Display: Building textures: Texture2D_522 (BGRA8, 415X415)
+[2019.02.18-22.56.20:839][878]LogTexture: Display: Building textures: Texture2D_523 (BGRA8, 415X415)
+[2019.02.18-22.56.20:863][878]LogTexture: Display: Building textures: Texture2D_524 (BGRA8, 415X415)
+[2019.02.18-22.56.20:887][878]LogTexture: Display: Building textures: Texture2D_525 (BGRA8, 415X415)
+[2019.02.18-22.56.20:909][878]LogTexture: Display: Building textures: Texture2D_526 (BGRA8, 415X415)
+[2019.02.18-22.56.20:937][879]LogTexture: Display: Building textures: Texture2D_527 (BGRA8, 415X415)
+[2019.02.18-22.56.20:960][879]LogTexture: Display: Building textures: Texture2D_528 (BGRA8, 415X415)
+[2019.02.18-22.56.20:984][879]LogTexture: Display: Building textures: Texture2D_529 (BGRA8, 415X415)
+[2019.02.18-22.56.21:008][879]LogTexture: Display: Building textures: Texture2D_530 (BGRA8, 415X415)
+[2019.02.18-22.56.21:040][879]LogTexture: Display: Building textures: Texture2D_531 (BGRA8, 415X415)
+[2019.02.18-22.56.21:064][879]LogTexture: Display: Building textures: Texture2D_532 (BGRA8, 415X415)
+[2019.02.18-22.56.21:088][879]LogTexture: Display: Building textures: Texture2D_533 (BGRA8, 415X415)
+[2019.02.18-22.56.21:112][879]LogTexture: Display: Building textures: Texture2D_534 (BGRA8, 415X415)
+[2019.02.18-22.56.21:136][879]LogTexture: Display: Building textures: Texture2D_535 (BGRA8, 415X415)
+[2019.02.18-22.56.21:160][879]LogTexture: Display: Building textures: Texture2D_536 (BGRA8, 415X415)
+[2019.02.18-22.56.21:184][879]LogTexture: Display: Building textures: Texture2D_537 (BGRA8, 415X415)
+[2019.02.18-22.56.21:209][879]LogTexture: Display: Building textures: Texture2D_538 (BGRA8, 415X415)
+[2019.02.18-22.56.21:233][879]LogTexture: Display: Building textures: Texture2D_539 (BGRA8, 415X415)
+[2019.02.18-22.56.21:258][879]LogTexture: Display: Building textures: Texture2D_540 (BGRA8, 415X415)
+[2019.02.18-22.56.21:283][879]LogTexture: Display: Building textures: Texture2D_541 (BGRA8, 415X415)
+[2019.02.18-22.56.21:308][879]LogTexture: Display: Building textures: Texture2D_542 (BGRA8, 415X415)
+[2019.02.18-22.56.21:333][879]LogTexture: Display: Building textures: Texture2D_543 (BGRA8, 415X415)
+[2019.02.18-22.56.21:357][879]LogTexture: Display: Building textures: Texture2D_544 (BGRA8, 415X415)
+[2019.02.18-22.56.21:381][879]LogTexture: Display: Building textures: Texture2D_545 (BGRA8, 415X415)
+[2019.02.18-22.56.21:406][879]LogTexture: Display: Building textures: Texture2D_546 (BGRA8, 415X415)
+[2019.02.18-22.56.21:433][880]LogTexture: Display: Building textures: Texture2D_547 (BGRA8, 415X415)
+[2019.02.18-22.56.21:457][880]LogTexture: Display: Building textures: Texture2D_548 (BGRA8, 415X415)
+[2019.02.18-22.56.21:482][880]LogTexture: Display: Building textures: Texture2D_549 (BGRA8, 415X415)
+[2019.02.18-22.56.21:506][880]LogTexture: Display: Building textures: Texture2D_550 (BGRA8, 415X415)
+[2019.02.18-22.56.21:542][881]LogTexture: Display: Building textures: Texture2D_551 (BGRA8, 415X415)
+[2019.02.18-22.56.21:566][881]LogTexture: Display: Building textures: Texture2D_552 (BGRA8, 415X415)
+[2019.02.18-22.56.21:688][890]LogTexture: Display: Building textures: Texture2D_553 (BGRA8, 415X415)
+[2019.02.18-22.56.21:914][911]LogTexture: Display: Building textures: Texture2D_554 (BGRA8, 415X415)
+[2019.02.18-22.56.21:975][915]LogTexture: Display: Building textures: Texture2D_555 (BGRA8, 415X415)
+[2019.02.18-22.56.22:040][919]LogTexture: Display: Building textures: Texture2D_556 (BGRA8, 415X415)
+[2019.02.18-22.56.22:064][919]LogTexture: Display: Building textures: Texture2D_557 (BGRA8, 415X415)
+[2019.02.18-22.56.22:227][933]LogTexture: Display: Building textures: Texture2D_558 (BGRA8, 415X415)
+[2019.02.18-22.56.22:279][936]LogTexture: Display: Building textures: Texture2D_559 (BGRA8, 415X415)
+[2019.02.18-22.56.22:313][937]LogTexture: Display: Building textures: Texture2D_560 (BGRA8, 415X415)
+[2019.02.18-22.56.22:339][937]LogTexture: Display: Building textures: Texture2D_561 (BGRA8, 415X415)
+[2019.02.18-22.56.22:443][945]LogTexture: Display: Building textures: Texture2D_562 (BGRA8, 415X415)
+[2019.02.18-22.56.22:476][946]LogTexture: Display: Building textures: Texture2D_563 (BGRA8, 415X415)
+[2019.02.18-22.56.22:512][947]LogTexture: Display: Building textures: Texture2D_564 (BGRA8, 415X415)
+[2019.02.18-22.56.22:547][948]LogTexture: Display: Building textures: Texture2D_565 (BGRA8, 415X415)
+[2019.02.18-22.56.22:573][948]LogTexture: Display: Building textures: Texture2D_566 (BGRA8, 415X415)
+[2019.02.18-22.56.22:682][956]LogTexture: Display: Building textures: Texture2D_567 (BGRA8, 415X415)
+[2019.02.18-22.56.22:805][965]LogTexture: Display: Building textures: Texture2D_568 (BGRA8, 415X415)
+[2019.02.18-22.56.22:830][965]LogTexture: Display: Building textures: Texture2D_569 (BGRA8, 415X415)
+[2019.02.18-22.56.22:870][966]LogTexture: Display: Building textures: Texture2D_570 (BGRA8, 415X415)
+[2019.02.18-22.56.22:954][971]LogTexture: Display: Building textures: Texture2D_571 (BGRA8, 415X415)
+[2019.02.18-22.56.22:994][972]LogTexture: Display: Building textures: Texture2D_572 (BGRA8, 415X415)
+[2019.02.18-22.56.23:027][973]LogTexture: Display: Building textures: Texture2D_573 (BGRA8, 415X415)
+[2019.02.18-22.56.23:069][975]LogTexture: Display: Building textures: Texture2D_574 (BGRA8, 415X415)
+[2019.02.18-22.56.23:102][976]LogTexture: Display: Building textures: Texture2D_575 (BGRA8, 415X415)
+[2019.02.18-22.56.23:263][990]LogTexture: Display: Building textures: Texture2D_576 (BGRA8, 415X415)
+[2019.02.18-22.56.23:370][999]LogTexture: Display: Building textures: Texture2D_577 (BGRA8, 415X415)
+[2019.02.18-22.56.23:583][ 18]LogTexture: Display: Building textures: Texture2D_578 (BGRA8, 415X415)
+[2019.02.18-22.56.23:619][ 19]LogTexture: Display: Building textures: Texture2D_579 (BGRA8, 415X415)
+[2019.02.18-22.56.23:644][ 19]LogTexture: Display: Building textures: Texture2D_580 (BGRA8, 415X415)
+[2019.02.18-22.56.23:897][ 42]LogTexture: Display: Building textures: Texture2D_581 (BGRA8, 415X415)
+[2019.02.18-22.56.24:079][ 59]LogTexture: Display: Building textures: Texture2D_582 (BGRA8, 415X415)
+[2019.02.18-22.56.24:115][ 60]LogTexture: Display: Building textures: Texture2D_583 (BGRA8, 415X415)
+[2019.02.18-22.56.24:150][ 61]LogTexture: Display: Building textures: Texture2D_584 (BGRA8, 415X415)
+[2019.02.18-22.56.24:186][ 62]LogTexture: Display: Building textures: Texture2D_585 (BGRA8, 415X415)
+[2019.02.18-22.56.24:326][ 73]LogTexture: Display: Building textures: Texture2D_586 (BGRA8, 415X415)
+[2019.02.18-22.56.24:364][ 74]LogTexture: Display: Building textures: Texture2D_587 (BGRA8, 415X415)
+[2019.02.18-22.56.24:447][ 80]LogTexture: Display: Building textures: Texture2D_588 (BGRA8, 415X415)
+[2019.02.18-22.56.24:478][ 81]LogTexture: Display: Building textures: Texture2D_589 (BGRA8, 415X415)
+[2019.02.18-22.56.24:544][ 85]LogTexture: Display: Building textures: Texture2D_590 (BGRA8, 415X415)
+[2019.02.18-22.56.24:577][ 86]LogTexture: Display: Building textures: Texture2D_591 (BGRA8, 415X415)
+[2019.02.18-22.56.25:413][170]LogTexture: Display: Building textures: Texture2D_592 (BGRA8, 415X415)
+[2019.02.18-22.56.25:451][171]LogTexture: Display: Building textures: Texture2D_593 (BGRA8, 415X415)
+[2019.02.18-22.56.25:526][175]LogTexture: Display: Building textures: Texture2D_594 (BGRA8, 415X415)
+[2019.02.18-22.56.25:569][177]LogTexture: Display: Building textures: Texture2D_595 (BGRA8, 415X415)
+[2019.02.18-22.56.25:602][178]LogTexture: Display: Building textures: Texture2D_596 (BGRA8, 415X415)
+[2019.02.18-22.56.25:640][179]LogTexture: Display: Building textures: Texture2D_597 (BGRA8, 415X415)
+[2019.02.18-22.56.25:679][180]LogTexture: Display: Building textures: Texture2D_598 (BGRA8, 415X415)
+[2019.02.18-22.56.25:713][181]LogTexture: Display: Building textures: Texture2D_599 (BGRA8, 415X415)
+[2019.02.18-22.56.25:772][184]LogTexture: Display: Building textures: Texture2D_600 (BGRA8, 415X415)
+[2019.02.18-22.56.25:806][185]LogTexture: Display: Building textures: Texture2D_601 (BGRA8, 415X415)
+[2019.02.18-22.56.25:843][186]LogTexture: Display: Building textures: Texture2D_602 (BGRA8, 415X415)
+[2019.02.18-22.56.25:881][187]LogTexture: Display: Building textures: Texture2D_603 (BGRA8, 415X415)
+[2019.02.18-22.56.25:952][192]LogTexture: Display: Building textures: Texture2D_604 (BGRA8, 415X415)
+[2019.02.18-22.56.25:984][193]LogTexture: Display: Building textures: Texture2D_605 (BGRA8, 415X415)
+[2019.02.18-22.56.26:021][194]LogTexture: Display: Building textures: Texture2D_606 (BGRA8, 415X415)
+[2019.02.18-22.56.26:054][195]LogTexture: Display: Building textures: Texture2D_607 (BGRA8, 415X415)
+[2019.02.18-22.56.26:131][200]LogTexture: Display: Building textures: Texture2D_608 (BGRA8, 415X415)
+[2019.02.18-22.56.26:295][214]LogTexture: Display: Building textures: Texture2D_609 (BGRA8, 415X415)
+[2019.02.18-22.56.26:332][215]LogTexture: Display: Building textures: Texture2D_610 (BGRA8, 415X415)
+[2019.02.18-22.56.26:574][237]LogTexture: Display: Building textures: Texture2D_611 (BGRA8, 415X415)
+[2019.02.18-22.56.26:596][237]LogTexture: Display: Building textures: Texture2D_612 (BGRA8, 415X415)
+[2019.02.18-22.56.26:633][238]LogTexture: Display: Building textures: Texture2D_613 (BGRA8, 415X415)
+[2019.02.18-22.56.26:840][257]LogTexture: Display: Building textures: Texture2D_614 (BGRA8, 415X415)
+[2019.02.18-22.56.26:944][265]LogTexture: Display: Building textures: Texture2D_615 (BGRA8, 415X415)
+[2019.02.18-22.56.26:983][266]LogTexture: Display: Building textures: Texture2D_616 (BGRA8, 415X415)
+[2019.02.18-22.56.27:019][267]LogTexture: Display: Building textures: Texture2D_617 (BGRA8, 415X415)
+[2019.02.18-22.56.27:081][270]LogTexture: Display: Building textures: Texture2D_618 (BGRA8, 415X415)
+[2019.02.18-22.56.27:187][278]LogTexture: Display: Building textures: Texture2D_619 (BGRA8, 415X415)
+[2019.02.18-22.56.27:289][286]LogTexture: Display: Building textures: Texture2D_620 (BGRA8, 415X415)
+[2019.02.18-22.56.27:327][287]LogTexture: Display: Building textures: Texture2D_621 (BGRA8, 415X415)
+[2019.02.18-22.56.27:364][288]LogTexture: Display: Building textures: Texture2D_622 (BGRA8, 415X415)
+[2019.02.18-22.56.27:399][289]LogTexture: Display: Building textures: Texture2D_623 (BGRA8, 415X415)
+[2019.02.18-22.56.27:435][290]LogTexture: Display: Building textures: Texture2D_624 (BGRA8, 415X415)
+[2019.02.18-22.56.27:470][291]LogTexture: Display: Building textures: Texture2D_625 (BGRA8, 415X415)
+[2019.02.18-22.56.27:506][292]LogTexture: Display: Building textures: Texture2D_626 (BGRA8, 415X415)
+[2019.02.18-22.56.27:528][292]LogTexture: Display: Building textures: Texture2D_627 (BGRA8, 415X415)
+[2019.02.18-22.56.27:594][296]LogTexture: Display: Building textures: Texture2D_628 (BGRA8, 415X415)
+[2019.02.18-22.56.27:746][309]LogTexture: Display: Building textures: Texture2D_629 (BGRA8, 415X415)
+[2019.02.18-22.56.27:780][310]LogTexture: Display: Building textures: Texture2D_630 (BGRA8, 415X415)
+[2019.02.18-22.56.27:804][310]LogTexture: Display: Building textures: Texture2D_631 (BGRA8, 415X415)
+[2019.02.18-22.56.27:841][311]LogTexture: Display: Building textures: Texture2D_632 (BGRA8, 415X415)
+[2019.02.18-22.56.27:911][315]LogTexture: Display: Building textures: Texture2D_633 (BGRA8, 415X415)
+[2019.02.18-22.56.27:963][318]LogTexture: Display: Building textures: Texture2D_634 (BGRA8, 415X415)
+[2019.02.18-22.56.27:998][319]LogTexture: Display: Building textures: Texture2D_635 (BGRA8, 415X415)
+[2019.02.18-22.56.28:037][320]LogTexture: Display: Building textures: Texture2D_636 (BGRA8, 415X415)
+[2019.02.18-22.56.28:073][321]LogTexture: Display: Building textures: Texture2D_637 (BGRA8, 415X415)
+[2019.02.18-22.56.28:096][321]LogTexture: Display: Building textures: Texture2D_638 (BGRA8, 415X415)
+[2019.02.18-22.56.28:122][321]LogTexture: Display: Building textures: Texture2D_639 (BGRA8, 415X415)
+[2019.02.18-22.56.28:159][322]LogTexture: Display: Building textures: Texture2D_640 (BGRA8, 415X415)
+[2019.02.18-22.56.28:186][322]LogTexture: Display: Building textures: Texture2D_641 (BGRA8, 415X415)
+[2019.02.18-22.56.28:240][325]LogTexture: Display: Building textures: Texture2D_642 (BGRA8, 415X415)
+[2019.02.18-22.56.28:284][327]LogTexture: Display: Building textures: Texture2D_643 (BGRA8, 415X415)
+[2019.02.18-22.56.28:375][334]LogTexture: Display: Building textures: Texture2D_644 (BGRA8, 415X415)
+[2019.02.18-22.56.28:400][334]LogTexture: Display: Building textures: Texture2D_645 (BGRA8, 415X415)
+[2019.02.18-22.56.28:442][335]LogTexture: Display: Building textures: Texture2D_646 (BGRA8, 415X415)
+[2019.02.18-22.56.28:472][335]LogTexture: Display: Building textures: Texture2D_647 (BGRA8, 415X415)
+[2019.02.18-22.56.28:500][335]LogTexture: Display: Building textures: Texture2D_648 (BGRA8, 415X415)
+[2019.02.18-22.56.28:535][336]LogTexture: Display: Building textures: Texture2D_649 (BGRA8, 415X415)
+[2019.02.18-22.56.28:692][350]LogTexture: Display: Building textures: Texture2D_650 (BGRA8, 415X415)
+[2019.02.18-22.56.28:728][351]LogTexture: Display: Building textures: Texture2D_651 (BGRA8, 415X415)
+[2019.02.18-22.56.28:848][356]LogTexture: Display: Building textures: Texture2D_652 (BGRA8, 415X415)
+[2019.02.18-22.56.28:885][357]LogTexture: Display: Building textures: Texture2D_653 (BGRA8, 415X415)
+[2019.02.18-22.56.30:084][479]LogTexture: Display: Building textures: Texture2D_654 (BGRA8, 415X415)
+[2019.02.18-22.56.30:137][482]LogTexture: Display: Building textures: Texture2D_655 (BGRA8, 415X415)
+[2019.02.18-22.56.30:534][521]LogTexture: Display: Building textures: Texture2D_656 (BGRA8, 415X415)
+[2019.02.18-22.56.30:650][530]LogTexture: Display: Building textures: Texture2D_657 (BGRA8, 415X415)
+[2019.02.18-22.56.30:672][530]LogTexture: Display: Building textures: Texture2D_658 (BGRA8, 415X415)
+[2019.02.18-22.56.31:450][607]LogTexture: Display: Building textures: Texture2D_659 (BGRA8, 415X415)
+[2019.02.18-22.56.31:749][635]LogTexture: Display: Building textures: Texture2D_660 (BGRA8, 415X415)
+[2019.02.18-22.56.35:896][ 59]LogTexture: Display: Building textures: Texture2D_661 (BGRA8, 415X415)
+[2019.02.18-22.56.35:919][ 59]LogTexture: Display: Building textures: Texture2D_662 (BGRA8, 415X415)
+[2019.02.18-22.56.35:944][ 59]LogTexture: Display: Building textures: Texture2D_663 (BGRA8, 415X415)
+[2019.02.18-22.56.35:967][ 59]LogTexture: Display: Building textures: Texture2D_664 (BGRA8, 415X415)
+[2019.02.18-22.57.29:088][783]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Material_Auto644B6270843D0F5486D6F90869E75A29C.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Level/Material_Auto6.umap'
+[2019.02.18-22.57.29:105][783]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Material' took 2.008
+[2019.02.18-22.57.29:105][783]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.008
+[2019.02.18-23.00.32:000][550]LogTexture: Display: Building textures: Texture2D_665 (BGRA8, 415X415)
+[2019.02.18-23.00.32:024][550]LogTexture: Display: Building textures: Texture2D_666 (BGRA8, 415X415)
+[2019.02.18-23.00.32:047][550]LogTexture: Display: Building textures: Texture2D_667 (BGRA8, 415X415)
+[2019.02.18-23.00.32:068][550]LogTexture: Display: Building textures: Texture2D_668 (BGRA8, 415X415)
+[2019.02.18-23.00.32:567][601]LogTexture: Display: Building textures: Texture2D_669 (BGRA8, 415X415)
+[2019.02.18-23.00.32:589][601]LogTexture: Display: Building textures: Texture2D_670 (BGRA8, 415X415)
+[2019.02.18-23.00.32:611][601]LogTexture: Display: Building textures: Texture2D_671 (BGRA8, 415X415)
+[2019.02.18-23.00.32:633][601]LogTexture: Display: Building textures: Texture2D_672 (BGRA8, 415X415)
+[2019.02.18-23.00.33:621][699]LogTexture: Display: Building textures: Texture2D_673 (BGRA8, 415X415)
+[2019.02.18-23.00.33:644][699]LogTexture: Display: Building textures: Texture2D_674 (BGRA8, 415X415)
+[2019.02.18-23.00.33:667][699]LogTexture: Display: Building textures: Texture2D_675 (BGRA8, 415X415)
+[2019.02.18-23.00.33:689][699]LogTexture: Display: Building textures: Texture2D_676 (BGRA8, 415X415)
+[2019.02.18-23.00.33:726][700]LogTexture: Display: Building textures: Texture2D_677 (BGRA8, 415X415)
+[2019.02.18-23.00.33:749][700]LogTexture: Display: Building textures: Texture2D_678 (BGRA8, 415X415)
+[2019.02.18-23.00.33:772][700]LogTexture: Display: Building textures: Texture2D_679 (BGRA8, 415X415)
+[2019.02.18-23.00.33:794][700]LogTexture: Display: Building textures: Texture2D_680 (BGRA8, 415X415)
+[2019.02.18-23.00.34:249][746]LogTexture: Display: Building textures: Texture2D_681 (BGRA8, 415X415)
+[2019.02.18-23.00.34:272][746]LogTexture: Display: Building textures: Texture2D_682 (BGRA8, 415X415)
+[2019.02.18-23.00.34:293][746]LogTexture: Display: Building textures: Texture2D_683 (BGRA8, 415X415)
+[2019.02.18-23.00.34:317][746]LogTexture: Display: Building textures: Texture2D_684 (BGRA8, 415X415)
+[2019.02.18-23.00.34:363][748]LogTexture: Display: Building textures: Texture2D_685 (BGRA8, 415X415)
+[2019.02.18-23.00.34:384][748]LogTexture: Display: Building textures: Texture2D_686 (BGRA8, 415X415)
+[2019.02.18-23.00.34:407][748]LogTexture: Display: Building textures: Texture2D_687 (BGRA8, 415X415)
+[2019.02.18-23.00.34:429][748]LogTexture: Display: Building textures: Texture2D_688 (BGRA8, 415X415)
+[2019.02.18-23.00.35:967][911]LogTexture: Display: Building textures: Texture2D_689 (BGRA8, 415X415)
+[2019.02.18-23.00.35:989][911]LogTexture: Display: Building textures: Texture2D_690 (BGRA8, 415X415)
+[2019.02.18-23.00.36:010][911]LogTexture: Display: Building textures: Texture2D_691 (BGRA8, 415X415)
+[2019.02.18-23.00.36:031][911]LogTexture: Display: Building textures: Texture2D_692 (BGRA8, 415X415)
+[2019.02.18-23.00.36:349][942]LogTexture: Display: Building textures: Texture2D_693 (BGRA8, 415X415)
+[2019.02.18-23.00.36:371][942]LogTexture: Display: Building textures: Texture2D_694 (BGRA8, 415X415)
+[2019.02.18-23.00.36:393][942]LogTexture: Display: Building textures: Texture2D_695 (BGRA8, 415X415)
+[2019.02.18-23.00.36:414][942]LogTexture: Display: Building textures: Texture2D_696 (BGRA8, 415X415)
+[2019.02.18-23.00.36:450][943]LogTexture: Display: Building textures: Texture2D_697 (BGRA8, 415X415)
+[2019.02.18-23.00.36:473][943]LogTexture: Display: Building textures: Texture2D_698 (BGRA8, 415X415)
+[2019.02.18-23.00.36:495][943]LogTexture: Display: Building textures: Texture2D_699 (BGRA8, 415X415)
+[2019.02.18-23.00.36:516][943]LogTexture: Display: Building textures: Texture2D_700 (BGRA8, 415X415)
+[2019.02.18-23.00.36:549][944]LogTexture: Display: Building textures: Texture2D_701 (BGRA8, 415X415)
+[2019.02.18-23.00.36:572][944]LogTexture: Display: Building textures: Texture2D_702 (BGRA8, 415X415)
+[2019.02.18-23.00.36:594][944]LogTexture: Display: Building textures: Texture2D_703 (BGRA8, 415X415)
+[2019.02.18-23.00.36:616][944]LogTexture: Display: Building textures: Texture2D_704 (BGRA8, 415X415)
+[2019.02.18-23.00.36:942][977]LogTexture: Display: Building textures: Texture2D_705 (BGRA8, 415X415)
+[2019.02.18-23.00.36:963][977]LogTexture: Display: Building textures: Texture2D_706 (BGRA8, 415X415)
+[2019.02.18-23.00.36:985][977]LogTexture: Display: Building textures: Texture2D_707 (BGRA8, 415X415)
+[2019.02.18-23.00.37:007][977]LogTexture: Display: Building textures: Texture2D_708 (BGRA8, 415X415)
+[2019.02.18-23.00.37:041][978]LogTexture: Display: Building textures: Texture2D_709 (BGRA8, 415X415)
+[2019.02.18-23.00.37:062][978]LogTexture: Display: Building textures: Texture2D_710 (BGRA8, 415X415)
+[2019.02.18-23.00.37:084][978]LogTexture: Display: Building textures: Texture2D_711 (BGRA8, 415X415)
+[2019.02.18-23.00.37:105][978]LogTexture: Display: Building textures: Texture2D_712 (BGRA8, 415X415)
+[2019.02.18-23.00.37:367][  3]LogTexture: Display: Building textures: Texture2D_713 (BGRA8, 415X415)
+[2019.02.18-23.00.37:389][  3]LogTexture: Display: Building textures: Texture2D_714 (BGRA8, 415X415)
+[2019.02.18-23.00.37:412][  3]LogTexture: Display: Building textures: Texture2D_715 (BGRA8, 415X415)
+[2019.02.18-23.00.37:434][  3]LogTexture: Display: Building textures: Texture2D_716 (BGRA8, 415X415)
+[2019.02.18-23.00.37:749][ 34]LogTexture: Display: Building textures: Texture2D_717 (BGRA8, 415X415)
+[2019.02.18-23.00.37:771][ 34]LogTexture: Display: Building textures: Texture2D_718 (BGRA8, 415X415)
+[2019.02.18-23.00.37:791][ 34]LogTexture: Display: Building textures: Texture2D_719 (BGRA8, 415X415)
+[2019.02.18-23.00.37:812][ 34]LogTexture: Display: Building textures: Texture2D_720 (BGRA8, 415X415)
+[2019.02.18-23.00.37:848][ 35]LogTexture: Display: Building textures: Texture2D_721 (BGRA8, 415X415)
+[2019.02.18-23.00.37:873][ 35]LogTexture: Display: Building textures: Texture2D_722 (BGRA8, 415X415)
+[2019.02.18-23.00.37:895][ 35]LogTexture: Display: Building textures: Texture2D_723 (BGRA8, 415X415)
+[2019.02.18-23.00.37:917][ 35]LogTexture: Display: Building textures: Texture2D_724 (BGRA8, 415X415)
+[2019.02.18-23.00.37:939][ 35]LogTexture: Display: Building textures: Texture2D_725 (BGRA8, 415X415)
+[2019.02.18-23.00.37:961][ 35]LogTexture: Display: Building textures: Texture2D_726 (BGRA8, 415X415)
+[2019.02.18-23.00.37:983][ 35]LogTexture: Display: Building textures: Texture2D_727 (BGRA8, 415X415)
+[2019.02.18-23.00.38:005][ 35]LogTexture: Display: Building textures: Texture2D_728 (BGRA8, 415X415)
+[2019.02.18-23.00.38:027][ 35]LogTexture: Display: Building textures: Texture2D_729 (BGRA8, 415X415)
+[2019.02.18-23.00.38:048][ 35]LogTexture: Display: Building textures: Texture2D_730 (BGRA8, 415X415)
+[2019.02.18-23.00.38:070][ 35]LogTexture: Display: Building textures: Texture2D_731 (BGRA8, 415X415)
+[2019.02.18-23.00.38:092][ 35]LogTexture: Display: Building textures: Texture2D_732 (BGRA8, 415X415)
+[2019.02.18-23.00.38:125][ 36]LogTexture: Display: Building textures: Texture2D_733 (BGRA8, 415X415)
+[2019.02.18-23.00.38:147][ 36]LogTexture: Display: Building textures: Texture2D_734 (BGRA8, 415X415)
+[2019.02.18-23.00.38:170][ 36]LogTexture: Display: Building textures: Texture2D_735 (BGRA8, 415X415)
+[2019.02.18-23.00.38:191][ 36]LogTexture: Display: Building textures: Texture2D_736 (BGRA8, 415X415)
+[2019.02.18-23.00.38:212][ 36]LogTexture: Display: Building textures: Texture2D_737 (BGRA8, 415X415)
+[2019.02.18-23.00.38:234][ 36]LogTexture: Display: Building textures: Texture2D_738 (BGRA8, 415X415)
+[2019.02.18-23.00.38:257][ 36]LogTexture: Display: Building textures: Texture2D_739 (BGRA8, 415X415)
+[2019.02.18-23.00.38:278][ 36]LogTexture: Display: Building textures: Texture2D_740 (BGRA8, 415X415)
+[2019.02.18-23.00.38:300][ 36]LogTexture: Display: Building textures: Texture2D_741 (BGRA8, 415X415)
+[2019.02.18-23.00.38:322][ 36]LogTexture: Display: Building textures: Texture2D_742 (BGRA8, 415X415)
+[2019.02.18-23.00.38:344][ 36]LogTexture: Display: Building textures: Texture2D_743 (BGRA8, 415X415)
+[2019.02.18-23.00.38:364][ 36]LogTexture: Display: Building textures: Texture2D_744 (BGRA8, 415X415)
+[2019.02.18-23.00.38:386][ 36]LogTexture: Display: Building textures: Texture2D_745 (BGRA8, 415X415)
+[2019.02.18-23.00.38:408][ 36]LogTexture: Display: Building textures: Texture2D_746 (BGRA8, 415X415)
+[2019.02.18-23.00.38:429][ 36]LogTexture: Display: Building textures: Texture2D_747 (BGRA8, 415X415)
+[2019.02.18-23.00.38:452][ 36]LogTexture: Display: Building textures: Texture2D_748 (BGRA8, 415X415)
+[2019.02.18-23.00.38:489][ 37]LogTexture: Display: Building textures: Texture2D_749 (BGRA8, 415X415)
+[2019.02.18-23.00.38:511][ 37]LogTexture: Display: Building textures: Texture2D_750 (BGRA8, 415X415)
+[2019.02.18-23.00.38:535][ 37]LogTexture: Display: Building textures: Texture2D_751 (BGRA8, 415X415)
+[2019.02.18-23.00.38:557][ 37]LogTexture: Display: Building textures: Texture2D_752 (BGRA8, 415X415)
+[2019.02.18-23.00.38:579][ 37]LogTexture: Display: Building textures: Texture2D_753 (BGRA8, 415X415)
+[2019.02.18-23.00.38:602][ 37]LogTexture: Display: Building textures: Texture2D_754 (BGRA8, 415X415)
+[2019.02.18-23.00.38:625][ 37]LogTexture: Display: Building textures: Texture2D_755 (BGRA8, 415X415)
+[2019.02.18-23.00.38:648][ 37]LogTexture: Display: Building textures: Texture2D_756 (BGRA8, 415X415)
+[2019.02.18-23.00.38:670][ 37]LogTexture: Display: Building textures: Texture2D_757 (BGRA8, 415X415)
+[2019.02.18-23.00.38:692][ 37]LogTexture: Display: Building textures: Texture2D_758 (BGRA8, 415X415)
+[2019.02.18-23.00.38:713][ 37]LogTexture: Display: Building textures: Texture2D_759 (BGRA8, 415X415)
+[2019.02.18-23.00.38:735][ 37]LogTexture: Display: Building textures: Texture2D_760 (BGRA8, 415X415)
+[2019.02.18-23.00.38:758][ 37]LogTexture: Display: Building textures: Texture2D_761 (BGRA8, 415X415)
+[2019.02.18-23.00.38:779][ 37]LogTexture: Display: Building textures: Texture2D_762 (BGRA8, 415X415)
+[2019.02.18-23.00.38:801][ 37]LogTexture: Display: Building textures: Texture2D_763 (BGRA8, 415X415)
+[2019.02.18-23.00.38:824][ 37]LogTexture: Display: Building textures: Texture2D_764 (BGRA8, 415X415)
+[2019.02.18-23.00.42:917][454]LogTexture: Display: Building textures: Texture2D_765 (BGRA8, 415X415)
+[2019.02.18-23.00.42:942][454]LogTexture: Display: Building textures: Texture2D_766 (BGRA8, 415X415)
+[2019.02.18-23.00.42:968][454]LogTexture: Display: Building textures: Texture2D_767 (BGRA8, 415X415)
+[2019.02.18-23.00.42:993][454]LogTexture: Display: Building textures: Texture2D_768 (BGRA8, 415X415)
+[2019.02.18-23.00.43:019][454]LogTexture: Display: Building textures: Texture2D_769 (BGRA8, 415X415)
+[2019.02.18-23.00.43:044][454]LogTexture: Display: Building textures: Texture2D_770 (BGRA8, 415X415)
+[2019.02.18-23.00.43:070][454]LogTexture: Display: Building textures: Texture2D_771 (BGRA8, 415X415)
+[2019.02.18-23.00.43:099][454]LogTexture: Display: Building textures: Texture2D_772 (BGRA8, 415X415)
+[2019.02.18-23.00.43:124][454]LogTexture: Display: Building textures: Texture2D_773 (BGRA8, 415X415)
+[2019.02.18-23.00.43:149][454]LogTexture: Display: Building textures: Texture2D_774 (BGRA8, 415X415)
+[2019.02.18-23.00.43:175][454]LogTexture: Display: Building textures: Texture2D_775 (BGRA8, 415X415)
+[2019.02.18-23.00.43:198][454]LogTexture: Display: Building textures: Texture2D_776 (BGRA8, 415X415)
+[2019.02.18-23.00.46:134][785]LogTexture: Display: Building textures: Texture2D_777 (BGRA8, 1920X1080)
+[2019.02.18-23.00.46:260][785]LogTexture: Display: Building textures: Texture2D_778 (BGRA8, 1920X1080)
+[2019.02.18-23.00.52:902][395]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.00.52:933][395]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.01.00:057][235]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-23.01.00:560][246]LogTexture: Display: Building textures: Texture2D_779 (BGRA8, 415X415)
+[2019.02.18-23.01.00:620][247]LogTexture: Display: Building textures: Texture2D_780 (BGRA8, 415X415)
+[2019.02.18-23.01.00:644][247]LogTexture: Display: Building textures: Texture2D_781 (BGRA8, 415X415)
+[2019.02.18-23.01.00:669][247]LogTexture: Display: Building textures: Texture2D_782 (BGRA8, 415X415)
+[2019.02.18-23.01.00:694][247]LogTexture: Display: Building textures: Texture2D_783 (BGRA8, 415X415)
+[2019.02.18-23.01.00:717][247]LogTexture: Display: Building textures: Texture2D_784 (BGRA8, 415X415)
+[2019.02.18-23.01.00:742][247]LogTexture: Display: Building textures: Texture2D_785 (BGRA8, 415X415)
+[2019.02.18-23.01.00:765][247]LogTexture: Display: Building textures: Texture2D_786 (BGRA8, 415X415)
+[2019.02.18-23.01.00:792][247]LogTexture: Display: Building textures: Texture2D_787 (BGRA8, 415X415)
+[2019.02.18-23.01.00:815][247]LogTexture: Display: Building textures: Texture2D_788 (BGRA8, 415X415)
+[2019.02.18-23.01.00:839][247]LogTexture: Display: Building textures: Texture2D_789 (BGRA8, 415X415)
+[2019.02.18-23.01.00:863][247]LogTexture: Display: Building textures: Texture2D_790 (BGRA8, 415X415)
+[2019.02.18-23.01.04:092][385]LogTexture: Display: Building textures: Texture2D_791 (BGRA8, 415X415)
+[2019.02.18-23.01.04:115][385]LogTexture: Display: Building textures: Texture2D_792 (BGRA8, 415X415)
+[2019.02.18-23.01.04:137][385]LogTexture: Display: Building textures: Texture2D_793 (BGRA8, 415X415)
+[2019.02.18-23.01.04:160][385]LogTexture: Display: Building textures: Texture2D_794 (BGRA8, 415X415)
+[2019.02.18-23.01.04:183][385]LogTexture: Display: Building textures: Texture2D_795 (BGRA8, 415X415)
+[2019.02.18-23.01.04:205][385]LogTexture: Display: Building textures: Texture2D_796 (BGRA8, 415X415)
+[2019.02.18-23.01.04:229][385]LogTexture: Display: Building textures: Texture2D_797 (BGRA8, 415X415)
+[2019.02.18-23.01.04:252][385]LogTexture: Display: Building textures: Texture2D_798 (BGRA8, 415X415)
+[2019.02.18-23.01.04:273][385]LogTexture: Display: Building textures: Texture2D_799 (BGRA8, 415X415)
+[2019.02.18-23.01.04:296][385]LogTexture: Display: Building textures: Texture2D_800 (BGRA8, 415X415)
+[2019.02.18-23.01.04:318][385]LogTexture: Display: Building textures: Texture2D_801 (BGRA8, 415X415)
+[2019.02.18-23.01.04:340][385]LogTexture: Display: Building textures: Texture2D_802 (BGRA8, 415X415)
+[2019.02.18-23.01.05:440][492]LogTexture: Display: Building textures: Texture2D_803 (BGRA8, 1920X1080)
+[2019.02.18-23.01.05:559][492]LogTexture: Display: Building textures: Texture2D_804 (BGRA8, 1920X1080)
+[2019.02.18-23.01.11:873][842]LogSubstanceSource: Refresh Login Successful
+[2019.02.18-23.01.19:612][865]LogFactory: FactoryCreateFile: SubstanceInstanceFactory with ReimportSubstanceFactory (0 0 V:/200 - Game Engine/Github/Material_Library/Material_Library/Substance/cataphote_rear_reflector_wave.sbsar)
+[2019.02.18-23.01.27:500][865]LogMaterial: Display: Missing cached shader map for material Cataphote_Rear_Reflector_Wave_MAT, compiling. 
+[2019.02.18-23.01.27:530][865]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.18-23.01.27:531][865]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.18-23.01.27:531][865]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.18-23.01.41:967][387]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.01.41:994][387]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.01.44:696][675]LogAssetEditorManager: Opening Asset editor for Material /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT.Cataphote_Rear_Reflector_Wave_MAT
+[2019.02.18-23.01.44:699][675]LogMaterial: Display: Missing cached shader map for material Cataphote_Rear_Reflector_Wave_MAT, compiling. 
+[2019.02.18-23.01.44:774][675]LogMaterial: Display: Missing cached shader map for material Cataphote_Rear_Reflector_Wave_MAT, compiling. 
+[2019.02.18-23.01.44:791][675]LogMaterial: Display: Missing cached shader map for material Cataphote_Rear_Reflector_Wave_MAT, compiling. 
+[2019.02.18-23.01.44:823][675]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.18-23.01.44:823][675]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.18-23.01.44:823][675]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.18-23.01.44:823][675]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.18-23.01.44:837][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_0, compiling. 
+[2019.02.18-23.01.44:845][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2019.02.18-23.01.44:853][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2019.02.18-23.01.44:859][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2019.02.18-23.01.44:905][675]LogSlate: Took 0.006994 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.02.18-23.01.45:096][676]LogShaderCompilers: Display: Shaders left to compile 25
+[2019.02.18-23.01.45:096][676]LogShaderCompilers: Display: Shaders left to compile 24
+[2019.02.18-23.01.45:096][676]LogShaderCompilers: Display: Shaders left to compile 23
+[2019.02.18-23.01.45:182][678]LogSlate: Took 0.006402 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.02.18-23.01.45:192][679]LogShaderCompilers: Display: Shaders left to compile 22
+[2019.02.18-23.01.45:209][680]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.18-23.01.45:209][680]LogShaderCompilers: Display: Shaders left to compile 20
+[2019.02.18-23.01.45:225][681]LogShaderCompilers: Display: Shaders left to compile 19
+[2019.02.18-23.01.45:329][687]LogShaderCompilers: Display: Shaders left to compile 18
+[2019.02.18-23.01.45:398][691]LogShaderCompilers: Display: Shaders left to compile 17
+[2019.02.18-23.01.45:582][701]LogShaderCompilers: Display: Shaders left to compile 16
+[2019.02.18-23.01.45:652][705]LogShaderCompilers: Display: Shaders left to compile 15
+[2019.02.18-23.01.45:685][707]LogShaderCompilers: Display: Shaders left to compile 14
+[2019.02.18-23.01.45:812][712]LogShaderCompilers: Display: Shaders left to compile 13
+[2019.02.18-23.01.45:893][716]LogShaderCompilers: Display: Shaders left to compile 12
+[2019.02.18-23.01.46:021][722]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.18-23.01.46:130][728]LogShaderCompilers: Display: Shaders left to compile 10
+[2019.02.18-23.01.46:149][729]LogShaderCompilers: Display: Shaders left to compile 9
+[2019.02.18-23.01.46:289][737]LogShaderCompilers: Display: Shaders left to compile 8
+[2019.02.18-23.01.46:395][743]LogShaderCompilers: Display: Shaders left to compile 7
+[2019.02.18-23.01.46:411][744]LogShaderCompilers: Display: Shaders left to compile 6
+[2019.02.18-23.01.46:555][752]LogShaderCompilers: Display: Shaders left to compile 5
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: Base pass shader: 116 instructions
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 190 instructions
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: Base pass vertex shader: 36 instructions
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: Texture samplers: 7/16
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(4)
+[2019.02.18-23.01.46:580][753]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2019.02.18-23.01.46:614][755]LogShaderCompilers: Display: Shaders left to compile 4
+[2019.02.18-23.01.46:648][757]LogShaderCompilers: Display: Shaders left to compile 3
+[2019.02.18-23.01.46:754][763]LogShaderCompilers: Display: Shaders left to compile 2
+[2019.02.18-23.01.46:830][767]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.18-23.01.46:925][773]LogSlate: Window 'Cataphote_Rear_Reflector_Wave_MAT*' being destroyed
+[2019.02.18-23.01.46:931][773]LogSlate: Window 'Cataphote_Rear_Reflector_Wave_MAT*' being destroyed
+[2019.02.18-23.01.56:058][816]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-23.01.56:631][869]LogMaterial: Warning: Material /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT.Cataphote_Rear_Reflector_Wave_MAT needed to have new flag set bUsedWithStaticLighting !
+[2019.02.18-23.01.56:634][869]LogMaterial: Display: Missing cached shader map for material Cataphote_Rear_Reflector_Wave_MAT, compiling. 
+[2019.02.18-23.01.56:656][870]LogShaderCompilers: Display: Shaders left to compile 31
+[2019.02.18-23.01.56:656][870]LogShaderCompilers: Display: Shaders left to compile 21
+[2019.02.18-23.01.56:656][870]LogShaderCompilers: Display: Shaders left to compile 11
+[2019.02.18-23.01.56:656][870]LogShaderCompilers: Display: Shaders left to compile 1
+[2019.02.18-23.02.54:384][718]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2019.02.18-23.02.54:425][718]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.02.18-23.03.34:028][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-23.03.34:313][804]LogAssetEditorManager: Opening Asset editor for SubstanceGraphInstance /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST.Cataphote_Rear_Reflector_Wave_INST
+[2019.02.18-23.03.44:585][685]LogTemp: Repeating last play command: Selected Viewport
+[2019.02.18-23.03.44:596][685]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Level/Material.Material:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Material.Material:PersistentLevel.Material' with GeneratedClass '/Game/Level/Material.Material_C' with ClassGeneratedBy '/Game/Level/Material.Material:PersistentLevel.Material'
+[2019.02.18-23.03.44:596][685]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.02.18-23.03.44:597][685]PIE: New page: PIE session: Material (19 Feb 2019 9:03:44 pm)
+[2019.02.18-23.03.44:610][685]LogPlayLevel: Creating play world package: /Game/Level/UEDPIE_0_Material
+[2019.02.18-23.03.44:625][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013410s)
+[2019.02.18-23.03.44:626][685]LogAIModule: Creating AISystem for world Material
+[2019.02.18-23.03.44:626][685]LogPlayLevel: PIE: World Init took: (0.001243s)
+[2019.02.18-23.03.44:626][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level/Material.Material to /Game/Level/UEDPIE_0_Material.Material (0.016216s)
+[2019.02.18-23.03.44:663][685]LogInit: XAudio2 using 'Speakers (High Definition Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.02.18-23.03.44:676][685]LogInit: FAudioDevice initialized.
+[2019.02.18-23.03.44:720][685]LogLoad: Game class is 'GameModeBase'
+[2019.02.18-23.03.44:730][685]LogWorld: Bringing World /Game/Level/UEDPIE_0_Material.Material up for play (max tick rate 0) at 2019.02.19-10.03.44
+[2019.02.18-23.03.44:730][685]LogWorld: Bringing up level for play took: 0.004445
+[2019.02.18-23.03.44:744][685]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2019.02.18-23.03.44:752][685]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0014 seconds. Added 20 classes and 0 folders.
+[2019.02.18-23.03.44:754][685]PIE: Play in editor start time for /Game/Level/UEDPIE_0_Material -0.552
+[2019.02.18-23.03.44:754][685]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Level/Material.Material:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Material.Material:PersistentLevel.Material' with GeneratedClass '/Game/Level/Material.Material_C' with ClassGeneratedBy '/Game/Level/Material.Material:PersistentLevel.Material'
+[2019.02.18-23.03.52:760][637]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Level/Material.Material:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Material.Material:PersistentLevel.Material' with GeneratedClass '/Game/Level/Material.Material_C' with ClassGeneratedBy '/Game/Level/Material.Material:PersistentLevel.Material'
+[2019.02.18-23.03.52:760][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-23.03.52:795][637]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.02.18-23.03.52:796][637]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Level/Material.Material:PersistentLevel' has LevelScriptBlueprint '/Game/Level/Material.Material:PersistentLevel.Material' with GeneratedClass '/Game/Level/Material.Material_C' with ClassGeneratedBy '/Game/Level/Material.Material:PersistentLevel.Material'
+[2019.02.18-23.03.52:818][637]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.02.18-23.03.52:866][640]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2019.02.18-23.04.13:032][861]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-23.04.56:746][240]LogSlate: Window 'Color Picker' being destroyed
+[2019.02.18-23.05.06:641][353]LogSlate: Window 'Cataphote_Rear_Reflector_Wave_INST*' being destroyed
+[2019.02.18-23.05.06:646][353]LogSlate: Window 'Cataphote_Rear_Reflector_Wave_INST*' being destroyed
+[2019.02.18-23.07.17:351][830]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.02.18-23.07.17:845][838]LogTexture: Display: Building textures: Texture2D_805 (BGRA8, 415X415)
+[2019.02.18-23.07.17:906][839]LogTexture: Display: Building textures: Texture2D_806 (BGRA8, 415X415)
+[2019.02.18-23.07.17:933][839]LogTexture: Display: Building textures: Texture2D_807 (BGRA8, 415X415)
+[2019.02.18-23.07.17:959][839]LogTexture: Display: Building textures: Texture2D_808 (BGRA8, 415X415)
+[2019.02.18-23.07.17:987][839]LogTexture: Display: Building textures: Texture2D_809 (BGRA8, 415X415)
+[2019.02.18-23.07.18:012][839]LogTexture: Display: Building textures: Texture2D_810 (BGRA8, 415X415)
+[2019.02.18-23.07.18:037][839]LogTexture: Display: Building textures: Texture2D_811 (BGRA8, 415X415)
+[2019.02.18-23.07.18:064][839]LogTexture: Display: Building textures: Texture2D_812 (BGRA8, 415X415)
+[2019.02.18-23.07.18:088][839]LogTexture: Display: Building textures: Texture2D_813 (BGRA8, 415X415)
+[2019.02.18-23.07.18:114][839]LogTexture: Display: Building textures: Texture2D_814 (BGRA8, 415X415)
+[2019.02.18-23.07.18:138][839]LogTexture: Display: Building textures: Texture2D_815 (BGRA8, 415X415)
+[2019.02.18-23.07.18:163][839]LogTexture: Display: Building textures: Texture2D_816 (BGRA8, 415X415)
+[2019.02.18-23.07.24:479][189]LogTexture: Display: Building textures: Texture2D_817 (BGRA8, 415X415)
+[2019.02.18-23.07.24:502][189]LogTexture: Display: Building textures: Texture2D_818 (BGRA8, 415X415)
+[2019.02.18-23.07.24:525][189]LogTexture: Display: Building textures: Texture2D_819 (BGRA8, 415X415)
+[2019.02.18-23.07.24:547][189]LogTexture: Display: Building textures: Texture2D_820 (BGRA8, 415X415)
+[2019.02.18-23.07.24:569][189]LogTexture: Display: Building textures: Texture2D_821 (BGRA8, 415X415)
+[2019.02.18-23.07.24:591][189]LogTexture: Display: Building textures: Texture2D_822 (BGRA8, 415X415)
+[2019.02.18-23.07.24:613][189]LogTexture: Display: Building textures: Texture2D_823 (BGRA8, 415X415)
+[2019.02.18-23.07.24:635][189]LogTexture: Display: Building textures: Texture2D_824 (BGRA8, 415X415)
+[2019.02.18-23.07.24:657][189]LogTexture: Display: Building textures: Texture2D_825 (BGRA8, 415X415)
+[2019.02.18-23.07.24:680][189]LogTexture: Display: Building textures: Texture2D_826 (BGRA8, 415X415)
+[2019.02.18-23.07.24:702][189]LogTexture: Display: Building textures: Texture2D_827 (BGRA8, 415X415)
+[2019.02.18-23.07.24:725][189]LogTexture: Display: Building textures: Texture2D_828 (BGRA8, 415X415)
+[2019.02.18-23.07.32:777][ 56]LogTexture: Display: Building textures: Texture2D_829 (BGRA8, 415X415)
+[2019.02.18-23.07.32:816][ 58]LogTexture: Display: Building textures: Texture2D_830 (BGRA8, 415X415)
+[2019.02.18-23.07.33:300][112]LogTexture: Display: Building textures: Texture2D_831 (BGRA8, 415X415)
+[2019.02.18-23.07.33:621][147]LogTexture: Display: Building textures: Texture2D_832 (BGRA8, 415X415)
+[2019.02.18-23.07.33:653][148]LogTexture: Display: Building textures: Texture2D_833 (BGRA8, 415X415)
+[2019.02.18-23.07.33:693][150]LogTexture: Display: Building textures: Texture2D_834 (BGRA8, 415X415)
+[2019.02.18-23.07.33:780][158]LogTexture: Display: Building textures: Texture2D_835 (BGRA8, 415X415)
+[2019.02.18-23.07.33:901][170]LogTexture: Display: Building textures: Texture2D_836 (BGRA8, 415X415)
+[2019.02.18-23.07.34:007][180]LogTexture: Display: Building textures: Texture2D_837 (BGRA8, 415X415)
+[2019.02.18-23.07.34:046][182]LogTexture: Display: Building textures: Texture2D_838 (BGRA8, 415X415)
+[2019.02.18-23.07.34:185][196]LogTexture: Display: Building textures: Texture2D_839 (BGRA8, 415X415)
+[2019.02.18-23.07.34:234][199]LogTexture: Display: Building textures: Texture2D_840 (BGRA8, 415X415)
+[2019.02.18-23.07.34:265][200]LogTexture: Display: Building textures: Texture2D_841 (BGRA8, 415X415)
+[2019.02.18-23.07.34:289][200]LogTexture: Display: Building textures: Texture2D_842 (BGRA8, 415X415)
+[2019.02.18-23.07.34:439][215]LogTexture: Display: Building textures: Texture2D_843 (BGRA8, 415X415)
+[2019.02.18-23.07.34:625][233]LogTexture: Display: Building textures: Texture2D_844 (BGRA8, 415X415)
+[2019.02.18-23.07.34:659][234]LogTexture: Display: Building textures: Texture2D_845 (BGRA8, 415X415)
+[2019.02.18-23.07.34:686][234]LogTexture: Display: Building textures: Texture2D_846 (BGRA8, 415X415)
+[2019.02.18-23.07.34:719][235]LogTexture: Display: Building textures: Texture2D_847 (BGRA8, 415X415)
+[2019.02.18-23.07.34:742][235]LogTexture: Display: Building textures: Texture2D_848 (BGRA8, 415X415)
+[2019.02.18-23.07.34:766][235]LogTexture: Display: Building textures: Texture2D_849 (BGRA8, 415X415)
+[2019.02.18-23.07.34:809][237]LogTexture: Display: Building textures: Texture2D_850 (BGRA8, 415X415)
+[2019.02.18-23.07.34:843][238]LogTexture: Display: Building textures: Texture2D_851 (BGRA8, 415X415)
+[2019.02.18-23.07.34:887][240]LogTexture: Display: Building textures: Texture2D_852 (BGRA8, 415X415)
+[2019.02.18-23.07.35:493][310]LogTexture: Display: Building textures: Texture2D_853 (BGRA8, 415X415)
+[2019.02.18-23.07.35:527][311]LogTexture: Display: Building textures: Texture2D_854 (BGRA8, 415X415)
+[2019.02.18-23.07.35:558][312]LogTexture: Display: Building textures: Texture2D_855 (BGRA8, 415X415)
+[2019.02.18-23.07.35:592][313]LogTexture: Display: Building textures: Texture2D_856 (BGRA8, 415X415)
+[2019.02.18-23.07.35:617][313]LogTexture: Display: Building textures: Texture2D_857 (BGRA8, 415X415)
+[2019.02.18-23.07.35:639][313]LogTexture: Display: Building textures: Texture2D_858 (BGRA8, 415X415)
+[2019.02.18-23.07.35:670][314]LogTexture: Display: Building textures: Texture2D_859 (BGRA8, 415X415)
+[2019.02.18-23.07.35:719][317]LogTexture: Display: Building textures: Texture2D_860 (BGRA8, 415X415)
+[2019.02.18-23.07.35:818][326]LogTexture: Display: Building textures: Texture2D_861 (BGRA8, 415X415)
+[2019.02.18-23.07.35:932][337]LogTexture: Display: Building textures: Texture2D_862 (BGRA8, 415X415)
+[2019.02.18-23.07.35:964][338]LogTexture: Display: Building textures: Texture2D_863 (BGRA8, 415X415)
+[2019.02.18-23.07.36:001][338]LogTexture: Display: Building textures: Texture2D_864 (BGRA8, 415X415)
+[2019.02.18-23.07.36:066][343]LogTexture: Display: Building textures: Texture2D_865 (BGRA8, 415X415)
+[2019.02.18-23.07.36:098][344]LogTexture: Display: Building textures: Texture2D_866 (BGRA8, 415X415)
+[2019.02.18-23.07.36:119][344]LogTexture: Display: Building textures: Texture2D_867 (BGRA8, 415X415)
+[2019.02.18-23.07.36:142][344]LogTexture: Display: Building textures: Texture2D_868 (BGRA8, 415X415)
+[2019.02.18-23.07.36:425][375]LogTexture: Display: Building textures: Texture2D_869 (BGRA8, 415X415)
+[2019.02.18-23.07.36:457][376]LogTexture: Display: Building textures: Texture2D_870 (BGRA8, 415X415)
+[2019.02.18-23.07.36:489][377]LogTexture: Display: Building textures: Texture2D_871 (BGRA8, 415X415)
+[2019.02.18-23.07.36:521][378]LogTexture: Display: Building textures: Texture2D_872 (BGRA8, 415X415)
+[2019.02.18-23.07.36:974][429]LogTexture: Display: Building textures: Texture2D_873 (BGRA8, 415X415)
+[2019.02.18-23.07.37:064][437]LogTexture: Display: Building textures: Texture2D_874 (BGRA8, 415X415)
+[2019.02.18-23.07.37:085][437]LogTexture: Display: Building textures: Texture2D_875 (BGRA8, 415X415)
+[2019.02.18-23.07.37:117][438]LogTexture: Display: Building textures: Texture2D_876 (BGRA8, 415X415)
+[2019.02.18-23.07.37:140][438]LogTexture: Display: Building textures: Texture2D_877 (BGRA8, 415X415)
+[2019.02.18-23.07.37:239][447]LogTexture: Display: Building textures: Texture2D_878 (BGRA8, 415X415)
+[2019.02.18-23.07.37:272][448]LogTexture: Display: Building textures: Texture2D_879 (BGRA8, 415X415)
+[2019.02.18-23.07.37:304][449]LogTexture: Display: Building textures: Texture2D_880 (BGRA8, 415X415)
+[2019.02.18-23.07.37:336][450]LogTexture: Display: Building textures: Texture2D_881 (BGRA8, 415X415)
+[2019.02.18-23.07.37:854][509]LogTexture: Display: Building textures: Texture2D_882 (BGRA8, 415X415)
+[2019.02.18-23.07.37:893][511]LogTexture: Display: Building textures: Texture2D_883 (BGRA8, 415X415)
+[2019.02.18-23.07.37:923][512]LogTexture: Display: Building textures: Texture2D_884 (BGRA8, 415X415)
+[2019.02.18-23.07.39:490][575]LogTexture: Display: Building textures: Texture2D_885 (BGRA8, 415X415)
+[2019.02.18-23.07.39:523][576]LogTexture: Display: Building textures: Texture2D_886 (BGRA8, 415X415)
+[2019.02.18-23.07.39:545][576]LogTexture: Display: Building textures: Texture2D_887 (BGRA8, 415X415)
+[2019.02.18-23.07.39:578][577]LogTexture: Display: Building textures: Texture2D_888 (BGRA8, 415X415)
+[2019.02.18-23.07.39:750][595]LogTexture: Display: Building textures: Texture2D_889 (BGRA8, 415X415)
+[2019.02.18-23.07.39:780][596]LogTexture: Display: Building textures: Texture2D_890 (BGRA8, 415X415)
+[2019.02.18-23.07.40:100][631]LogTexture: Display: Building textures: Texture2D_891 (BGRA8, 415X415)
+[2019.02.18-23.07.40:133][632]LogTexture: Display: Building textures: Texture2D_892 (BGRA8, 415X415)
+[2019.02.18-23.07.40:164][633]LogTexture: Display: Building textures: Texture2D_893 (BGRA8, 415X415)
+[2019.02.18-23.07.40:328][650]LogTexture: Display: Building textures: Texture2D_894 (BGRA8, 415X415)
+[2019.02.18-23.07.41:652][806]LogTexture: Display: Building textures: Texture2D_895 (BGRA8, 415X415)
+[2019.02.18-23.07.41:814][823]LogTexture: Display: Building textures: Texture2D_896 (BGRA8, 415X415)
+[2019.02.18-23.07.42:003][843]LogTexture: Display: Building textures: Texture2D_897 (BGRA8, 415X415)
+[2019.02.18-23.07.42:057][847]LogTexture: Display: Building textures: Texture2D_898 (BGRA8, 415X415)
+[2019.02.18-23.07.42:243][866]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.07.42:270][866]LogSlate: Window 'Substance Source' being destroyed
+[2019.02.18-23.07.42:301][867]LogTexture: Display: Building textures: Texture2D_899 (BGRA8, 415X415)
+[2019.02.18-23.07.42:470][885]LogTexture: Display: Building textures: Texture2D_900 (BGRA8, 415X415)
+[2019.02.18-23.07.42:857][927]LogTexture: Display: Building textures: Texture2D_901 (BGRA8, 415X415)
+[2019.02.18-23.07.42:891][928]LogTexture: Display: Building textures: Texture2D_902 (BGRA8, 415X415)
+[2019.02.18-23.07.43:004][932]LogTexture: Display: Building textures: Texture2D_903 (BGRA8, 415X415)
+[2019.02.18-23.07.43:026][932]LogTexture: Display: Building textures: Texture2D_904 (BGRA8, 415X415)
+[2019.02.18-23.08.44:035][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Material_Auto7D88A7C5F48A81E9A8304B98FF0ABBDC0.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Level/Material_Auto7.umap'
+[2019.02.18-23.08.44:054][849]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Level/Material' took 1.764
+[2019.02.18-23.08.44:054][849]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.764
+[2019.02.18-23.08.44:061][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST] ([1] browsable assets)...
+[2019.02.18-23.08.44:061][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST]
+[2019.02.18-23.08.44:079][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_IN663C83994DA07C40EFCB0894DC46D08E.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_Auto7.uasset'
+[2019.02.18-23.08.44:097][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_basecolor] ([1] browsable assets)...
+[2019.02.18-23.08.44:105][849]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_basecolor.Cataphote_Rear_Reflector_Wave_INST_basecolor]
+[2019.02.18-23.08.44:105][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_basecolor]
+[2019.02.18-23.08.45:336][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_IN38969A634BB63626219F3D9C14749D5D.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_basecolor_Auto7.uasset'
+[2019.02.18-23.08.45:357][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_normal] ([1] browsable assets)...
+[2019.02.18-23.08.45:364][849]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_normal.Cataphote_Rear_Reflector_Wave_INST_normal]
+[2019.02.18-23.08.45:364][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_normal]
+[2019.02.18-23.08.45:631][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_INB25C1A59428FD0CF9E4B8CB697505144.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_normal_Auto7.uasset'
+[2019.02.18-23.08.45:652][849]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/cataphote_rear_reflector_wave] ([1] browsable assets)...
+[2019.02.18-23.08.45:652][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/cataphote_rear_reflector_wave]
+[2019.02.18-23.08.45:674][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/cataphote_rear_reflector_wave_AuC95C2BFF43FEBFEFAB9FA69235F269FE.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/cataphote_rear_reflector_wave_Auto7.uasset'
+[2019.02.18-23.08.45:695][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_specular] ([1] browsable assets)...
+[2019.02.18-23.08.45:702][849]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_specular.Cataphote_Rear_Reflector_Wave_INST_specular]
+[2019.02.18-23.08.45:702][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_specular]
+[2019.02.18-23.08.45:858][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_IN48CDF686440025BD280480AAFE764844.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_specular_Auto7.uasset'
+[2019.02.18-23.08.45:878][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_roughness] ([1] browsable assets)...
+[2019.02.18-23.08.45:886][849]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_roughness.Cataphote_Rear_Reflector_Wave_INST_roughness]
+[2019.02.18-23.08.45:886][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_roughness]
+[2019.02.18-23.08.46:158][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_INF3D35303454ECDBC9719C993FCF69899.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_roughness_Auto7.uasset'
+[2019.02.18-23.08.46:179][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_metallic] ([1] browsable assets)...
+[2019.02.18-23.08.46:188][849]OBJ SavePackage:     Rendered thumbnail for [SubstanceTexture2D /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_metallic.Cataphote_Rear_Reflector_Wave_INST_metallic]
+[2019.02.18-23.08.46:188][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_metallic]
+[2019.02.18-23.08.46:454][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_IN15A71F28451FF01A209025AF2A73537B.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_INST_metallic_Auto7.uasset'
+[2019.02.18-23.08.46:473][849]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT] ([1] browsable assets)...
+[2019.02.18-23.08.46:490][849]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT.Cataphote_Rear_Reflector_Wave_MAT]
+[2019.02.18-23.08.46:491][849]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT]
+[2019.02.18-23.08.46:536][849]LogSavePackage: Moving 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Cataphote_Rear_Reflector_Wave_MAEAA280754A03899484B77AA8C5550E4D.tmp' to 'V:/200 - Game Engine/Github/Material_Library/Material_Library/Saved/Autosaves/Game/Materials/1000_Walls/M_1003_Danpalon_Ice_03/Cataphote_Rear_Reflector_Wave_MAT_Auto7.uasset'
+[2019.02.18-23.08.46:554][849]LogFileHelpers: Auto-saving content packages took 2.497
